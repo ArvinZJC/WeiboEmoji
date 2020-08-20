@@ -1,0 +1,1 @@
+ren *.webp* *.png
