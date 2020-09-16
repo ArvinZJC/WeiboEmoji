@@ -5,7 +5,6 @@ Weibo, similar to Twitter, is a Chinese microblogging website launched by Sina. 
 ## ATTENTION
 
 1. Please note that these image files should never ever be used for commercial purposes. Just "help yourself" and have fun by, for instance, adding them into your Emoji favourites of chatting apps like WeChat and QQ.
-
 2. The repository has been built based on Weibo Android App V10.8.1 and [Weibo HTML5](https://m.weibo.cn/) V2.4.9.
 
 ## Folder Instructions
@@ -25,3 +24,17 @@ It is no doubt that the Emoji images from Source 1 and the resource folder compr
 ### [Processed Images](https://github.com/ArvinZJC/WeiboEmoji/tree/master/Processed%20Images)
 
 Don't want to convert WEBP images by yourself? Well then, just copy the processed image files from this folder instead of **the corresponding WEBP images** in Source 2.
+
+## Examples
+
+Doge:
+
+![2018_doge_mobile.png](./Source 1/微博“黄脸”/2018_doge_mobile.png)
+
+Give a shoutout (打call):
+
+![moren_dacall_mobile.png](./Source 1/微博“黄脸”/moren_dacall_mobile.png)
+
+Ha! Ha! (浪小花-笑哈哈):
+
+![201810_xiaohaha_mobile.png](./Source 1/浪小花/201810_xiaohaha_mobile.png)
