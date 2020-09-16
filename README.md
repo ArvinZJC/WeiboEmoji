@@ -1,5 +1,7 @@
 # WeiboEmoji
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/cca9e2bdabef4138a1dddb7b09a82e0c)](https://www.codacy.com/manual/ArvinZJC/WeiboEmoji?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ArvinZJC/WeiboEmoji&amp;utm_campaign=Badge_Grade)
+
 Weibo, similar to Twitter, is a Chinese microblogging website launched by Sina. **Weibo Emoji** is a repository for saving and sharing most Emoji images that are used/were previously used by the app Weibo. It contains approximately **380 PNG Emoji images**.
 
 ## ATTENTION
@@ -29,12 +31,12 @@ Don't want to convert WEBP images by yourself? Well then, just copy the processe
 
 Doge:
 
-![2018_doge_mobile.png](./Source 1/微博“黄脸”/2018_doge_mobile.png)
+![2018_doge_mobile.png](https://github.com/ArvinZJC/WeiboEmoji/tree/master/Source%201/%E5%BE%AE%E5%8D%9A%E2%80%9C%E9%BB%84%E8%84%B8%E2%80%9D/2018_doge_mobile.png)
 
 Give a shoutout (打call):
 
-![moren_dacall_mobile.png](./Source 1/微博“黄脸”/moren_dacall_mobile.png)
+![moren_dacall_mobile.png](https://github.com/ArvinZJC/WeiboEmoji/tree/master/Source%201/%E5%BE%AE%E5%8D%9A%E2%80%9C%E9%BB%84%E8%84%B8%E2%80%9D/moren_dacall_mobile.png)
 
 Ha! Ha! (浪小花-笑哈哈):
 
-![201810_xiaohaha_mobile.png](./Source 1/浪小花/201810_xiaohaha_mobile.png)
+![201810_xiaohaha_mobile.png](https://github.com/ArvinZJC/WeiboEmoji/tree/master/Source%201/%E5%BE%AE%E5%8D%9A%E2%80%9C%E9%BB%84%E8%84%B8%E2%80%9D/201810_xiaohaha_mobile.png)
