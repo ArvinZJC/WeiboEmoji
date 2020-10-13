@@ -1,4 +1,4 @@
-# WeiboEmoji
+# Weibo Emoji
 
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ArvinZJC/WeiboEmoji?include_prereleases)](https://github.com/ArvinZJC/WeiboEmoji/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/ArvinZJC/WeiboEmoji/total)](https://github.com/ArvinZJC/WeiboEmoji/releases)
