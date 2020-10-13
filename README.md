@@ -4,7 +4,7 @@
 [![GitHub All Releases](https://img.shields.io/github/downloads/ArvinZJC/WeiboEmoji/total)](https://github.com/ArvinZJC/WeiboEmoji/releases)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/cca9e2bdabef4138a1dddb7b09a82e0c)](https://www.codacy.com/manual/ArvinZJC/WeiboEmoji?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ArvinZJC/WeiboEmoji&amp;utm_campaign=Badge_Grade)
 
-**English** | [简体中文](https://github.com/ArvinZJC/WeiboEmoji/blob/master/README_zh-CN.md)
+**English** | [简体中文](https://github.com/ArvinZJC/WeiboEmoji/blob/master/README-zhCN.md)
 
 Weibo, similar to Twitter, is a Chinese microblogging website launched by Sina. **Weibo Emoji** is a repository for saving and sharing most Emoji images that are used/were previously used by the app Weibo. It contains **386 PNG Emoji images**. There is no best, only better.
 
