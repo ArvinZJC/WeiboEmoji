@@ -4,18 +4,20 @@
 [![GitHub All Releases](https://img.shields.io/github/downloads/ArvinZJC/WeiboEmoji/total)](https://github.com/ArvinZJC/WeiboEmoji/releases)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/cca9e2bdabef4138a1dddb7b09a82e0c)](https://www.codacy.com/manual/ArvinZJC/WeiboEmoji?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ArvinZJC/WeiboEmoji&amp;utm_campaign=Badge_Grade)
 
-Weibo, similar to Twitter, is a Chinese microblogging website launched by Sina. **Weibo Emoji** is a repository for saving and sharing most Emoji images that are used/were previously used by the app Weibo. It contains approximately **380 PNG Emoji images**.
+**English** | [简体中文](https://github.com/ArvinZJC/WeiboEmoji/blob/master/README_zh-CN.md)
+
+Weibo, similar to Twitter, is a Chinese microblogging website launched by Sina. **Weibo Emoji** is a repository for saving and sharing most Emoji images that are used/were previously used by the app Weibo. It contains **386 PNG Emoji images**. There is no best, only better.
 
 ## ATTENTION
 
 1. Please note that these image files should never ever be used for commercial purposes. Just "help yourself" and have fun by, for instance, adding them into your Emoji favourites of chatting apps like WeChat and QQ.
-2. The repository has been built based on Weibo Android App V10.8.1 and [Weibo HTML5](https://m.weibo.cn/) V2.4.9.
+2. The repository has been built based on Weibo Android App V10.10.0 and [Weibo HTML5](https://m.weibo.cn/) V2.4.9.
 
 ## Folder Instructions
 
 ### [Source1](https://github.com/ArvinZJC/WeiboEmoji/tree/master/Source1)
 
-Once the specified version of Weibo Android App is installed and launched, it will create a data folder to save Emoji resources. The general location is `/storage/emulated/0/sina/weibo/storage/photoalbum_emotion/emotion`. You don't even need the ROOT permission for access. Hence, you can also extract these images on your own. What I have done to save your time is to basically categorise them according to their meanings. The rough time range of this source is from January 2015 to August 2020.
+Once the specified version of Weibo Android App is installed and launched, it will create a data folder to save Emoji resources. The general location is `/storage/emulated/0/sina/weibo/storage/photoalbum_emotion/emotion`. You don't even need the ROOT permission for access. Hence, you can also extract these images on your own. What I have done to save your time is to basically categorise them according to their meanings. The rough time range of this source is from January 2015 to September 2020.
 
 Although there are numerous Emoji images, not all of them are shown in the Weibo Emoji list when you use the app. Generally, these images not displayed were previously used to reflect a few hot topics in China Net. I suppose that Weibo might add/replace/remove these image files in a more timely manner.
 
@@ -35,10 +37,10 @@ Doge:
 
 ![2018_doge_mobile.png](./Source1/微博“黄脸”/2018_doge_mobile.png)
 
-Give a shoutout (打call):
+Give a shoutout:
 
 ![moren_dacall_mobile.png](./Source1/微博“黄脸”/moren_dacall_mobile.png)
 
-Ha! Ha! (浪小花-笑哈哈):
+Ha! Ha!:
 
 ![201810_xiaohaha_mobile.png](./Source1/浪小花/201810_xiaohaha_mobile.png)
