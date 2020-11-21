@@ -10,7 +10,7 @@ Weibo, similar to Twitter, is a Chinese microblogging website launched by Sina. 
 
 ## ATTENTION
 
-1. Please note that these image files should never ever be used for commercial purposes. Just "help yourself" and have fun by, for instance, adding them into your Emoji favourites of chatting apps like WeChat and QQ.
+1. The Emoji images have been sorted out, and they together with the corresponding changelogs can be found in the [Releases](https://github.com/ArvinZJC/WeiboEmoji/releases) section. Please note that these image files should never ever be used for commercial purposes. Just "help yourself" and have fun by, for instance, adding them into your Emoji favourites of chatting apps like WeChat and QQ.
 2. The repository has been built based on Weibo Android App V10.10.0 and [Weibo HTML5](https://m.weibo.cn/) V2.4.9.
 
 ## Folder Instructions
