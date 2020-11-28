@@ -6,18 +6,18 @@
 
 **English** | [简体中文](https://github.com/ArvinZJC/WeiboEmoji/blob/master/README-zhCN.md)
 
-Weibo, similar to Twitter, is a Chinese microblogging website launched by Sina. **Weibo Emoji** is a repository for saving and sharing most Emoji images that are used/were previously used by the app Weibo. It contains **386 PNG Emoji images**. There is no best, only better.
+Weibo, similar to Twitter, is a Chinese microblogging website launched by Sina. **Weibo Emoji** is a repository for saving and sharing most Emoji images that are used/were previously used by the app Weibo. It contains **389 PNG Emoji images**. There is no best, only better.
 
 ## ATTENTION
 
 1. The Emoji images have been sorted out, and they together with the corresponding changelogs can be found in the [Releases](https://github.com/ArvinZJC/WeiboEmoji/releases) section. Please note that these image files should never ever be used for commercial purposes. Just "help yourself" and have fun by, for instance, adding them into your Emoji favourites of chatting apps like WeChat and QQ.
-2. The repository has been built based on Weibo Android App V10.10.0 and [Weibo HTML5](https://m.weibo.cn/) V2.4.9.
+2. The repository has been built based on Weibo Android App V10.11.4 and [Weibo HTML5](https://m.weibo.cn/) V2.4.9.
 
 ## Folder Instructions
 
 ### [Source1](https://github.com/ArvinZJC/WeiboEmoji/tree/master/Source1)
 
-Once the specified version of Weibo Android App is installed and launched, it will create a data folder to save Emoji resources. The general location is `/storage/emulated/0/sina/weibo/storage/photoalbum_emotion/emotion`. You don't even need the ROOT permission for access. Hence, you can also extract these images on your own. What I have done to save your time is to basically categorise them according to their meanings. The rough time range of this source is from January 2015 to September 2020.
+Once the specified version of Weibo Android App is installed and launched, it will create a data folder to save Emoji resources. The general location is `/storage/emulated/0/sina/weibo/storage/photoalbum_emotion/emotion`. You don't even need the ROOT permission for access. Hence, you can also extract these images on your own. What I have done to save your time is to basically categorise them according to their meanings. The rough time range of this source is from **January 2015 to November 2020**.
 
 Although there are numerous Emoji images, not all of them are shown in the Weibo Emoji list when you use the app. Generally, these images not displayed were previously used to reflect a few hot topics in China Net. I suppose that Weibo might add/replace/remove these image files in a more timely manner.
 
@@ -33,9 +33,9 @@ Don't want to convert WEBP images by yourself? Well then, just copy the processe
 
 ## Examples
 
-Doge:
+Cracked:
 
-![2018_doge_mobile.png](./Source1/微博“黄脸”/2018_doge_mobile.png)
+![202011_liekai_mobile.png](./Source1/微博“黄脸”/202011_liekai_mobile.png)
 
 Give a shoutout:
 
