@@ -37,7 +37,7 @@ Cracked:
 
 ![202011_liekai_mobile.png](./Source1/微博“黄脸”/202011_liekai_mobile.png)
 
-Give a shoutout:
+Giving a shoutout:
 
 ![moren_dacall_mobile.png](./Source1/微博“黄脸”/moren_dacall_mobile.png)
 
