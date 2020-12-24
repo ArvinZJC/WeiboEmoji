@@ -17,7 +17,7 @@ Weibo, similar to Twitter, is a Chinese microblogging website launched by Sina. 
 
 ### [Source1](https://github.com/ArvinZJC/WeiboEmoji/tree/master/Source1)
 
-Once the specified version of Weibo Android App is installed and launched, it will create a data folder to save Emoji resources. The general location is `/storage/emulated/0/sina/weibo/storage/photoalbum_emotion/emotion`. You don't even need the ROOT permission for access. Hence, you can also extract these images on your own. What I have done to save your time is to basically categorise them according to their meanings. The rough time range of this source is from **January 2015 to November 2020**.
+Once the specified version of Weibo Android App is installed and launched, it will create a data folder to save Emoji resources. The general location is `/storage/emulated/0/sina/weibo/storage/photoalbum_emotion/emotion`. You don't even need the ROOT permission for access. Hence, you can also extract these images on your own. What I have done to save your time is to basically categorise them according to their meanings. The rough time range of this source is from **January 2015 to December 2020**.
 
 Although there are numerous Emoji images, not all of them are shown in the Weibo Emoji list when you use the app. Generally, these images not displayed were previously used to reflect a few hot topics in China Net. I suppose that Weibo might add/replace/remove these image files in a more timely manner.
 
