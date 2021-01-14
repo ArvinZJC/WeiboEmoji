@@ -2,7 +2,6 @@
 
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ArvinZJC/WeiboEmoji?include_prereleases)](https://github.com/ArvinZJC/WeiboEmoji/releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/ArvinZJC/WeiboEmoji/total)](https://github.com/ArvinZJC/WeiboEmoji/releases)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/cc460460e8da4609b40a38532fcb9547)](https://www.codacy.com/gh/ArvinZJC/WeiboEmoji/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ArvinZJC/WeiboEmoji&amp;utm_campaign=Badge_Grade)
 
 [English](https://github.com/ArvinZJC/WeiboEmoji/blob/master/README.md) | **简体中文**
 
