@@ -36,10 +36,10 @@ Cracked:
 
 ![202011_liekai_mobile.png](./Source1/微博“黄脸”/202011_liekai_mobile.png)
 
+Hug:
+
+![2020_hug_mobile.png](./Source1/微博“黄脸”/2020_hug_mobile.png)
+
 Giving a shoutout:
 
-![moren_dacall_mobile.png](./Source1/微博“黄脸”/moren_dacall_mobile.png)
-
-Ha! Ha!:
-
-![201810_xiaohaha_mobile.png](./Source1/浪小花/201810_xiaohaha_mobile.png)
+![2021_LZyingguangbang_mobile.pmg](./Source1/绿洲掌宝/2021_LZyingguangbang_mobile.png)
