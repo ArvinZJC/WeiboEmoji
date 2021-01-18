@@ -16,7 +16,7 @@ Weibo, similar to Twitter, is a Chinese microblogging website launched by Sina. 
 
 ### [Source1](https://github.com/ArvinZJC/WeiboEmoji/tree/master/Source1)
 
-Once the specified version of Weibo Android App is installed and launched, it will create a data folder to save Emoji resources. The general location is `/storage/emulated/0/sina/weibo/storage/photoalbum_emotion/emotion`. You don't even need the ROOT permission for access. Hence, you can also extract these images on your own. What I have done to save your time is to basically categorise them according to their meanings. The rough time range of this source is from **January 2015 to December 2020**.
+Once the specified version of Weibo Android App is installed and launched, it will create a data folder to save Emoji resources. The general location is `/storage/emulated/0/sina/weibo/storage/photoalbum_emotion/emotion`. You don't even need the ROOT permission for access. Hence, you can also extract these images on your own. What I have done to save your time is to basically categorise them according to their meanings. The rough time range of this source is from **January 2015 to January 2021**.
 
 Although there are numerous Emoji images, not all of them are shown in the Weibo Emoji list when you use the app. Generally, these images not displayed were previously used to reflect a few hot topics in China Net. I suppose that Weibo might add/replace/remove these image files in a more timely manner.
 
@@ -24,7 +24,7 @@ Although there are numerous Emoji images, not all of them are shown in the Weibo
 
 One part of this folder is Emoji images extracted from the specified resource folder in the corresponding APK file of the app. If you understand the principles of an APK file, it is a piece of cake for you to find these amazing images as well. The image files copied in this way are mostly WEBP ones, which are usually not supported when you want to use them in chatting apps. On Windows, you can get PNG images by double clicking the BAT file included in this folder to run the script, but it is not recommended. Instead, it is one better choice for you to use file format converters like [Format Factory](http://www.pcgeshi.com/) (~~not AD~~).
 
-It is no doubt that the Emoji images from Source 1 and the resource folder compressed in the APK file are sufficient. However, there are still several fancy and vivid ones that are not included. How to retrieve and download these resources in a relatively simple way became an annoying problem. Fortunately, these kind of images are found on the HTML5 version of Weibo. Hence, thanks to the developer tools of PC's browsers, my solution is to dig for these image files by browsing Weibo HTML5 on Google Chrome. (I don't even know when Google changed the hot key of this feature to `Ctrl` + `Shift` + `I`...)
+It is no doubt that the Emoji images from Source 1 and the resource folder compressed in the APK file are sufficient. However, there are still several fancy and vivid ones that are not included. How to retrieve and download these resources in a relatively simple way became an annoying problem. Fortunately, these kind of images are found on the HTML5 version of Weibo. Hence, thanks to the developer tools of PC's browsers, my solution is to dig for these image files by browsing Weibo HTML5 on Google Chrome.
 
 ### [ProcessedImages](https://github.com/ArvinZJC/WeiboEmoji/tree/master/ProcessedImages)
 
@@ -36,10 +36,14 @@ Cracked:
 
 ![202011_liekai_mobile.png](./Source1/微博“黄脸”/202011_liekai_mobile.png)
 
+Hug:
+
+![2020_hug_mobile.png](./Source1/微博“黄脸”/2020_hug_mobile.png)
+
 Giving a shoutout:
 
-![moren_dacall_mobile.png](./Source1/微博“黄脸”/moren_dacall_mobile.png)
+![2021_LZyingguangbang_mobile.png](./Source1/绿洲掌宝/2021_LZyingguangbang_mobile.png)
 
-Ha! Ha!:
+Come on:
 
-![201810_xiaohaha_mobile.png](./Source1/浪小花/201810_xiaohaha_mobile.png)
+![2021_LZfighting_mobile.png](./Source1/绿洲掌宝/2021_LZfighting_mobile.png)
