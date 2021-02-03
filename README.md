@@ -5,12 +5,12 @@
 
 **English** | [简体中文](https://github.com/ArvinZJC/WeiboEmoji/blob/master/README-zhCN.md)
 
-Weibo, similar to Twitter, is a Chinese microblogging website launched by Sina. **Weibo Emoji** is a repository for saving and sharing most Emoji images that are used/were previously used by the app Weibo. It contains **409 PNG Emoji images**. There is no best, only better.
+Weibo, similar to Twitter, is a Chinese microblogging website launched by Sina. **Weibo Emoji** is a repository for saving and sharing most Emoji images that are used/were previously used by the app Weibo. It contains **410 PNG Emoji images**. There is no best, only better.
 
 ## ATTENTION
 
 1. The Emoji images have been sorted out, and they together with the corresponding changelogs can be found in the [Releases](https://github.com/ArvinZJC/WeiboEmoji/releases) section. Please note that these image files should never ever be used for commercial purposes. Just "help yourself" and have fun by, for instance, adding them into your Emoji favourites of chatting apps like WeChat and QQ.
-2. The repository has been built based on Weibo Android App V11.1.1 and [Weibo HTML5](https://m.weibo.cn/) V2.4.9.
+2. The repository has been built based on Weibo Android App V11.1.3 and [Weibo HTML5](https://m.weibo.cn/) V2.4.9.
 
 ## Folder Instructions
 
