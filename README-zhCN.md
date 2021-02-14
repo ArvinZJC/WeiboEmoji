@@ -5,7 +5,7 @@
 
 [English](https://github.com/ArvinZJC/WeiboEmoji/blob/master/README.md) | **简体中文**
 
-新浪微博是啥就不用多介绍了哈，我相信能看懂汉字的人基本都知道那货是个啥。**微博Emoji**这个“项目”旨在保存并分享微博app提供或提供过的大部分Emoji表情。它包含**415张PNG格式的表情图片**，这可是鄙人悉心整理之作（~~往自己脸上贴金~~）。没有最好最全，只有更好更全。
+新浪微博是啥就不用多介绍了哈，我相信能看懂汉字的人基本都知道那货是个啥。**微博Emoji**这个“项目”旨在保存并分享微博app提供或提供过的大部分Emoji表情。它包含**421张PNG格式的表情图片**，这可是鄙人悉心整理之作（~~往自己脸上贴金~~）。没有最好最全，只有更好更全。
 
 ## 注意
 
@@ -36,9 +36,9 @@
 
 ![202011_liekai_mobile.png](./Source1/微博“黄脸”/202011_liekai_mobile.png)
 
-抱抱:
+单身狗:
 
-![2020_hug_mobile.png](./Source1/微博“黄脸”/2020_hug_mobile.png)
+![2021_alongdog_org.png](./Source2/两大虐狗节_补充/2021_alongdog_org.png)
 
 打call:
 

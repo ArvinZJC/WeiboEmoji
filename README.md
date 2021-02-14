@@ -5,7 +5,7 @@
 
 **English** | [简体中文](https://github.com/ArvinZJC/WeiboEmoji/blob/master/README-zhCN.md)
 
-Weibo, similar to Twitter, is a Chinese microblogging website launched by Sina. **Weibo Emoji** is a repository for saving and sharing most Emoji images that are used/were previously used by the app Weibo. It contains **415 PNG Emoji images**. There is no best, only better.
+Weibo, similar to Twitter, is a Chinese microblogging website launched by Sina. **Weibo Emoji** is a repository for saving and sharing most Emoji images that are used/were previously used by the app Weibo. It contains **421 PNG Emoji images**. There is no best, only better.
 
 ## ATTENTION
 
@@ -36,14 +36,14 @@ Cracked:
 
 ![202011_liekai_mobile.png](./Source1/微博“黄脸”/202011_liekai_mobile.png)
 
-Hug:
+"Single dog":
 
-![2020_hug_mobile.png](./Source1/微博“黄脸”/2020_hug_mobile.png)
+![2021_alongdog_org.png](./Source2/两大虐狗节_补充/2021_alongdog_org.png)
 
 Giving a shoutout:
 
 ![2021_LZyingguangbang_mobile.png](./Source1/绿洲掌宝/2021_LZyingguangbang_mobile.png)
 
-Come on:
+"Come on!":
 
 ![2021_LZfighting_mobile.png](./Source1/绿洲掌宝/2021_LZfighting_mobile.png)
