@@ -5,7 +5,7 @@
 
 **English** | [简体中文](./README-zhCN.md)
 
-Weibo, similar to Twitter, is a Chinese microblogging website launched by Sina. **Weibo Emoji** is a repository for saving and sharing most Emoji images that are used/were previously used by the app Weibo. It contains **421 PNG Emoji images**. There is no best, only better.
+Weibo, similar to Twitter, is a Chinese microblogging website launched by Sina. **Weibo Emoji** is a repository for saving and sharing most Emoji images that are used/were previously used by the app Weibo. It contains **427 PNG Emoji images**. There is no best, only better.
 
 ## ATTENTION
 
