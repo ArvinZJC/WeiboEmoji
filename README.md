@@ -26,7 +26,7 @@ One part of this folder is Emoji images extracted from the specified resource fo
 
 It is no doubt that the Emoji images from Source 1 and the resource folder compressed in the APK file are sufficient. However, there are still several fancy and vivid ones that are not included. How to retrieve and download these resources in a relatively simple way became an annoying problem. Fortunately, these kind of images are found on Weibo HTML5 and Weibo Web. Hence, thanks to the developer tools of PC's browsers, my solution is to dig for these image files by browsing the web pages on Google Chrome.
 
-### [ProcessedImages](./ProcessedImages)
+### [Processed_Images](./Processed_Images)
 
 Don't want to convert WEBP images by yourself? Well then, just copy the processed image files from this folder instead of **the corresponding WEBP images** in Source 2.
 
