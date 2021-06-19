@@ -49,6 +49,6 @@ There is much more for you to explore.
 
 ****
 
-<sub>[1.](#source1) The badge showing the number of followers on Weibo is powered by [Substats](https://github.com/spencerwooo/Substats).👍</sub>
+<sub id="footnote1">[1.](#source1) The badge showing the number of followers on Weibo is powered by [Substats](https://github.com/spencerwooo/Substats).👍</sub>
 
-<sub>[2.](#source2) It has been proved that GIF images could have better compatibility, especially with WeChat (for iPhone/iPad) and QQ, when adding to the Emoji favourites.</sub>
+<sub id="footnote2">[2.](#source2) It has been proved that GIF images could have better compatibility, especially with WeChat (for iPhone/iPad) and QQ, when adding to the Emoji favourites.</sub>

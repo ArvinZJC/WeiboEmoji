@@ -49,6 +49,6 @@
 
 ****
 
-<sub>[1.](#source1) 显示微博粉丝数的徽章由 [Substats](https://github.com/spencerwooo/Substats) 提供技术支持。👍</sub>
+<sub id="footnote1">[1.](#source1) 显示微博粉丝数的徽章由 [Substats](https://github.com/spencerwooo/Substats) 提供技术支持。👍</sub>
 
-<sub>[2.](#source2) GIF图片经证明能有更好的显示效果，尤其是将表情添加到微信（iPhone/iPad版）和QQ中的表情收藏中。</sub>
+<sub id="footnote2">[2.](#source2) GIF图片经证明能有更好的显示效果，尤其是将表情添加到微信（iPhone/iPad版）和QQ中的表情收藏中。</sub>
