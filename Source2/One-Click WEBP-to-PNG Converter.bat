@@ -1,1 +1,0 @@
-ren *.webp* *.png
