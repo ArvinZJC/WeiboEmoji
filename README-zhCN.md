@@ -5,7 +5,7 @@
 
 [English](./README.md) | **简体中文**
 
-新浪微博是啥就不用多介绍了哈，我相信能看懂汉字的人基本都知道那货是个啥。**微博Emoji**这个“项目”旨在保存并分享微博app提供或提供过的大部分Emoji表情。它包含**444张不同的表情图片**，这可是鄙人悉心整理之作（~~往自己脸上贴金~~）。没有最好最全，只有更好更全。不管怎么说，玩儿微博的老铁们不如点点下面的徽章<sup id="source1">[1](#footnote1)</sup>来**加一波关注**？😆
+新浪微博是啥就不用多介绍了哈，我相信能看懂汉字的人基本都知道那货是个啥。**微博Emoji**这个“项目”旨在保存并分享微博app提供或提供过的大部分Emoji表情。它包含**450张不同的表情图片**，这可是鄙人悉心整理之作（~~往自己脸上贴金~~）。没有最好最全，只有更好更全。不管怎么说，玩儿微博的老铁们不如点点下面的徽章<sup id="source1">[1](#footnote1)</sup>来**加一波关注**？😆
 
 [![Weibo](https://img.shields.io/badge/dynamic/json?logo=sina-weibo&label=微博粉丝&color=ff8200&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D3218812301&longCache=true)](https://weibo.com/u/3218812301)
 
@@ -19,7 +19,7 @@
 
 ### [Source1](./Source1)
 
-微博这些精美的表情图片其实没有那么难获取啦。不知道从哪个版本开始，只要您安装使用了安卓版微博，一个存储着Emoji资源的文件夹就会出现在您手机存储中。这个文件夹的路径一般是`/storage/emulated/0/sina/weibo/storage/photoalbum_emotion/emotion`。您甚至都不需要ROOT，所以您也完全可以自己提取这些Emoji。那我有什么用呢？（~~没用~~）这里我只不过是分好了类，兴许能帮您在选择喜欢的表情时省点时间，毕竟时间就是金钱嘛。这些Emoji的时间范围大致是**从2015年1月到2021年8月**。
+微博这些精美的表情图片其实没有那么难获取啦。不知道从哪个版本开始，只要您安装使用了安卓版微博，一个存储着Emoji资源的文件夹就会出现在您手机存储中。这个文件夹的路径一般是`/storage/emulated/0/Android/data/com.sina.weibo/files/sina/weibo/storage/photoalbum_emotion/emotion`。您甚至都不需要ROOT，所以您也完全可以自己提取这些Emoji。那我有什么用呢？（~~没用~~）这里我只不过是分好了类，兴许能帮您在选择喜欢的表情时省点时间，毕竟时间就是金钱嘛。这些Emoji的时间范围大致是**从2015年1月到2021年8月**。
 
 您可能会寻思：这微博里也没这么多表情啊？的确，这些表情并不会都出现在微博的表情列表里（但是没出现的依然能占用您的手机存储空间）。一般地，这些没出现的“时效性”的表情是曾经用来体现中国强大的互联网出现的某个热点的，热乎劲儿过了就被替换了。
 
@@ -37,13 +37,14 @@
 
 ## 样例
 
-| Image | Meaning |
+| 表情 | 释义 |
 | :--: | :--: |
+| ![2021_bitter_mobile.png](./Source1/微博“黄脸”/2021_bitter_mobile.png) | 苦涩 |
 | ![202011_liekai_mobile.png](./Source1/微博“黄脸”/202011_liekai_mobile.png) | 裂开 |
 | ![2018_doge_mobile.png](./Source1/微博“黄脸”/2018_doge_mobile.png) | Doge（~~不是狗狗币~~） |
 | ![moren_dacall_mobile.png](./Source1/微博“黄脸”/moren_dacall_mobile.png) | 打call |
-| ![dorachijing_mobile.png](./Source1/哆啦A梦/dorachijing_mobile.png) | 吃惊 |
-| ![2021_alongdog_org.png](./Source2/两大虐狗节_补充/2021_alongdog_org.png) | 单身狗 |
+| ![2021_alongdog_org.png](./Source1/两大虐狗节/2021_alongdog_mobile.png) | 单身狗 |
+| ![dorachijing_mobile.png](./Source1/哆啦A梦/dorachijing_mobile.png) | 震惊 |
 
 更多精彩待发现！
 

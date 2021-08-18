@@ -5,7 +5,7 @@
 
 **English** | [简体中文](./README-zhCN.md)
 
-Weibo, similar to Twitter, is a Chinese microblogging website launched by Sina. **Weibo Emoji** is a repository for saving and sharing most Emoji images that are used/were previously used by the app Weibo. It contains **444 different Emoji images**. There is no best, only better. So do you use Weibo? If yes, why not click the following badge<sup id="source1">[1](#footnote1)</sup> and **follow me now**?😆
+Weibo, similar to Twitter, is a Chinese microblogging website launched by Sina. **Weibo Emoji** is a repository for saving and sharing most Emoji images that are used/were previously used by the app Weibo. It contains **450 different Emoji images**. There is no best, only better. So do you use Weibo? If yes, why not click the following badge<sup id="source1">[1](#footnote1)</sup> and **follow me now**?😆
 
 [![Weibo](https://img.shields.io/badge/dynamic/json?logo=sina-weibo&label=Weibo+Followers&color=ff8200&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D3218812301&longCache=true)](https://weibo.com/u/3218812301)
 
@@ -19,7 +19,7 @@ Weibo, similar to Twitter, is a Chinese microblogging website launched by Sina. 
 
 ### [Source1](./Source1)
 
-Once the specified version of Weibo for Android is installed and launched, it will create a data folder to save Emoji resources. The general location is `/storage/emulated/0/sina/weibo/storage/photoalbum_emotion/emotion`. You do not even need the ROOT permission for access. Hence, you can also extract these images on your own. What I have done to save your time is to basically categorise them according to their meanings. The rough time range of this source is from **January 2015 to August 2021**.
+Once the specified version of Weibo for Android is installed and launched, it will save Emoji resources in its app data folder. The general location is `/storage/emulated/0/Android/data/com.sina.weibo/files/sina/weibo/storage/photoalbum_emotion/emotion`. You do not even need the ROOT permission for access. Hence, you can also extract these images on your own. What I have done to save your time is to basically categorise them according to their meanings. The rough time range of this source is from **January 2015 to August 2021**.
 
 Although there are numerous Emoji images, not all of them are shown in the Weibo Emoji list when you use the app. Generally, these images not displayed were previously used to reflect a few hot topics in China Net. Weibo might add/replace/remove these image files in a more timely manner.
 
@@ -39,11 +39,12 @@ It is no doubt that the Emoji images from Source 1 and the resource folder compr
 
 | Image | Meaning |
 | :--: | :--: |
+| ![2021_bitter_mobile.png](./Source1/微博“黄脸”/2021_bitter_mobile.png) | Bitter |
 | ![202011_liekai_mobile.png](./Source1/微博“黄脸”/202011_liekai_mobile.png) | Cracked |
-| ![2018_doge_mobile.png](./Source1/微博“黄脸”/2018_doge_mobile.png) | Doge |
 | ![moren_dacall_mobile.png](./Source1/微博“黄脸”/moren_dacall_mobile.png) | Giving a shoutout |
+| ![2018_doge_mobile.png](./Source1/微博“黄脸”/2018_doge_mobile.png) | Doge |
+| ![2021_alongdog_org.png](./Source1/两大虐狗节/2021_alongdog_mobile.png) | Damn single |
 | ![dorachijing_mobile.png](./Source1/哆啦A梦/dorachijing_mobile.png) | Shocked |
-| ![2021_alongdog_org.png](./Source2/两大虐狗节_补充/2021_alongdog_org.png) | Damn single |
 
 There is much more for you to explore.
 
