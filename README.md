@@ -1,3 +1,5 @@
+![banner.png](./banner.png)
+
 # Weibo Emoji
 
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ArvinZJC/WeiboEmoji?include_prereleases)](../../releases)
