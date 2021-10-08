@@ -147,5 +147,6 @@ cython_debug/
 *.code-workspace
 
 # Others
+.DS_Store
 output
 output_debug
