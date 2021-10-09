@@ -37,7 +37,7 @@
 
 ### [Scripts](./Scripts): 🚀
 
-工具脚本的设计是为了使新版本的打包更方便。请注意此项目使用 [GPL-3.0协议](./LICENSE)。更多信息请参见[此文件夹下的 README](./Scripts/README_zhCN.md)。
+工具脚本的设计是为了使新版本的打包更方便。请注意此项目使用 [GPL-3.0 协议](./LICENSE)。更多信息请参见[此文件夹下的 README](./Scripts/README_zhCN.md)。
 
 > 📢 重构在发布 V3.6.0 的时候已提上日程。船新的 V4.0.0 正在悄默默地准备给您一个惊喜。
 
@@ -48,7 +48,7 @@
 | ![2021_bitter_mobile.png](./Images/Source1/微博“黄脸”/2021_bitter_mobile.png) | 苦涩 |
 | ![202011_liekai_mobile.png](./Images/Source1/微博“黄脸”/202011_liekai_mobile.png) | 裂开 |
 | ![2018_doge_mobile.png](./Images/Source1/微博“黄脸”/2018_doge_mobile.png) | Doge（~~不是狗狗币~~） |
-| ![moren_dacall_mobile.png](./Images/Source1/微博“黄脸”/moren_dacall_mobile.png) | 打call |
+| ![moren_dacall_mobile.png](./Images/Source1/微博“黄脸”/moren_dacall_mobile.png) | 打 call |
 | ![2021_alongdog_org.png](./Images/Source1/两大虐狗节/2021_alongdog_mobile.png) | 单身狗 |
 | ![dorachijing_mobile.png](./Images/Source1/哆啦A梦/dorachijing_mobile.png) | 震惊 |
 

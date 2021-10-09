@@ -1,4 +1,4 @@
-# [微博Emoji](../../..)/Scripts
+# [WeiboEmoji](../../..)/Scripts
 
 [English](./README.md) | **简体中文**
 
