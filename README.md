@@ -4,14 +4,14 @@
 
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ArvinZJC/WeiboEmoji?include_prereleases)](../../releases)
 [![GitHub All Releases](https://img.shields.io/github/downloads/ArvinZJC/WeiboEmoji/total)](../../releases)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/fa57831c35a64a3d819b15255125d98b)](https://www.codacy.com/gh/ArvinZJC/WeiboEmoji/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ArvinZJC/WeiboEmoji&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/fa57831c35a64a3d819b15255125d98b)](https://www.codacy.com/gh/ArvinZJC/WeiboEmoji/dashboard?utm_source=github.com&utm_medium=referral&utm_content=ArvinZJC/WeiboEmoji&utm_campaign=Badge_Grade)
 ![GitHub](https://img.shields.io/github/license/ArvinZJC/WeiboEmoji)
 
 **English** | [简体中文](./README-zhCN.md)
 
 Weibo, similar to Twitter, is a Chinese microblogging website launched by Sina. **Weibo Emoji** is a repository for saving and sharing most Emoji images that are used/were previously used by the app Weibo. It contains **457 different Emoji images**. There is no best, only better. So do you use Weibo? If yes, why not click the following badge<sup id="source1">[1](#footnote1)</sup> and **follow me now**? 😆
 
-[![Weibo](https://img.shields.io/badge/dynamic/json?logo=sina-weibo&label=Weibo+Followers&color=ff8200&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D3218812301&longCache=true)](https://weibo.com/u/3218812301)
+[![Weibo](https://img.shields.io/badge/dynamic/json?logo=sina-weibo&label=Weibo&color=ff8200&suffix=+followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D3218812301&longCache=true)](https://weibo.com/u/3218812301)
 
 ## ❗ ATTENTION
 
@@ -43,18 +43,18 @@ The helper scripts are designed to make it more convenient to generate a new rel
 
 ## 💥 Examples
 
-| Image | Meaning |
-| :--: | :--: |
-| ![2021_bitter_mobile.png](./Images/Source1/微博“黄脸”/2021_bitter_mobile.png) | Bitter |
-| ![202011_liekai_mobile.png](./Images/Source1/微博“黄脸”/202011_liekai_mobile.png) | Cracked |
-| ![moren_dacall_mobile.png](./Images/Source1/微博“黄脸”/moren_dacall_mobile.png) | Giving a shoutout |
-| ![2018_doge_mobile.png](./Images/Source1/微博“黄脸”/2018_doge_mobile.png) | Doge |
-| ![2021_alongdog_org.png](./Images/Source1/两大虐狗节/2021_alongdog_mobile.png) | Damn single |
-| ![dorachijing_mobile.png](./Images/Source1/哆啦A梦/dorachijing_mobile.png) | Shocked |
+|                                       Image                                       |      Meaning      |
+| :-------------------------------------------------------------------------------: | :---------------: |
+|   ![2021_bitter_mobile.png](./Images/Source1/微博“黄脸”/2021_bitter_mobile.png)   |      Bitter       |
+| ![202011_liekai_mobile.png](./Images/Source1/微博“黄脸”/202011_liekai_mobile.png) |      Cracked      |
+|  ![moren_dacall_mobile.png](./Images/Source1/微博“黄脸”/moren_dacall_mobile.png)  | Giving a shoutout |
+|     ![2018_doge_mobile.png](./Images/Source1/微博“黄脸”/2018_doge_mobile.png)     |       Doge        |
+|  ![2021_alongdog_org.png](./Images/Source1/两大虐狗节/2021_alongdog_mobile.png)   |    Damn single    |
+|    ![dorachijing_mobile.png](./Images/Source1/哆啦A梦/dorachijing_mobile.png)     |      Shocked      |
 
 There is much more for you to explore. Hope you will enjoy it. 💖
 
-****
+---
 
 <sub id="footnote1">[1.](#source1) The badge showing the number of followers on Weibo is powered by [Substats](https://github.com/spencerwooo/Substats). 👍</sub>
 
