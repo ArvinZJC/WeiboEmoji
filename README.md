@@ -11,7 +11,7 @@
 
 Weibo, similar to Twitter, is a Chinese microblogging website launched by Sina. **Weibo Emoji** is a repository for saving and sharing most Emoji images that are used/were previously used by the app Weibo. It contains **457 different Emoji images**. There is no best, only better. So do you use Weibo? If yes, why not click the following badge<sup id="source1">[1](#footnote1)</sup> and **follow me now**? 😆
 
-[![Weibo](https://img.shields.io/badge/dynamic/json?logo=sina-weibo&label=Weibo&color=ff8200&suffix=+followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D3218812301&longCache=true)](https://weibo.com/u/3218812301)
+[![Weibo](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fweibo%2F3218812301&query=count&color=282c34&label=Weibo&labelColor=e6162d&logo=sina-weibo&suffix=+followers&cacheSeconds=3600)](https://weibo.com/3218812301)
 
 ## ❗ ATTENTION
 
