@@ -201,4 +201,6 @@ atlassian-ide-plugin.xml
 .idea/httpRequests
 
 # Others.
+package.json
+package-lock.json
 serverless.yaml
