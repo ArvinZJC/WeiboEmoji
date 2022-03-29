@@ -1,11 +1,11 @@
 """
 '''
 Description: a Weibo Emoji list data updater
-Version: 1.0.0.20220325
+Version: 1.0.0.20220329
 Author: Arvin Zhao
 Date: 2022-03-22 19:44:09
 Last Editors: Arvin Zhao
-LastEditTime: 2022-03-25 14:56:58
+LastEditTime: 2022-03-29 19:03:07
 '''
 """
 
@@ -45,7 +45,7 @@ def update(is_scf: bool = False) -> bool:
     Parameters
     ----------
     is_scf : bool
-        A flag indicating if the Tencent SCF activates.
+        A flag indicating if Tencent SCF is used.
 
     Returns
     -------
