@@ -5,7 +5,7 @@ Version: 1.0.0.20220329
 Author: Arvin Zhao
 Date: 2022-03-22 19:44:09
 Last Editors: Arvin Zhao
-LastEditTime: 2022-03-29 19:20:07
+LastEditTime: 2022-03-29 19:22:02
 '''
 """
 
@@ -34,7 +34,7 @@ def notify_tg(is_same: bool) -> None:
     notify(
         "telegram",
         content="Same data? {}.".format(is_same),
-        title="Weibo Emoji: Update Checker",
+        title="Weibo Emoji Update Checker",
         token=tg_bot_token,
         userid=tg_user_id,
     )
