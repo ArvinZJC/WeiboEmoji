@@ -1,11 +1,11 @@
 """
 '''
 Description: a Weibo Emoji list data updater
-Version: 1.0.0.20220329
+Version: 1.0.1.20220401
 Author: Arvin Zhao
 Date: 2022-03-22 19:44:09
 Last Editors: Arvin Zhao
-LastEditTime: 2022-03-29 19:22:02
+LastEditTime: 2022-04-01 09:06:58
 '''
 """
 
@@ -22,13 +22,14 @@ def notify_tg(is_same: bool) -> None:
 
     Parameters
     ----------
-    is_same : bool, optional
+    is_same : bool
         A flag indicating if the data file pending comparison contains the latest data.
     """
     tg_bot_token = os.getenv("TG_BOT_TOKEN")
     tg_user_id = os.getenv("TG_USER_ID")
 
     if tg_bot_token == None or tg_user_id == None:
+        print("No Telegram bot token or user ID found.")
         return
 
     notify(
@@ -45,8 +46,8 @@ def update(is_scf: bool = False) -> bool:
 
     Parameters
     ----------
-    is_scf : bool
-        A flag indicating if Tencent SCF is used.
+    is_scf : bool, optional
+        A flag indicating if Tencent SCF is used. Default: `False`.
 
     Returns
     -------

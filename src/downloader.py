@@ -1,11 +1,11 @@
 """
 '''
 Description: a Weibo Emoji image downloader
-Version: 1.0.0.20220325
+Version: 1.0.0.20220401
 Author: Arvin Zhao
 Date: 2022-03-25 15:08:27
 Last Editors: Arvin Zhao
-LastEditTime: 2022-03-25 16:41:58
+LastEditTime: 2022-04-01 09:10:45
 '''
 """
 
@@ -23,11 +23,13 @@ def download(ignore_existing: bool = True):
     ignore_existing : bool
         A flag indicating if the existing image should be redownloaded.
     """
+    print("Downloading Weibo Emoji images...")
     data_file_path = os.path.join(
         ".", "WeiboEmojiUpdateChecker", "src", "WeiboEmojiList.json"
     )
 
     if not os.path.exists(data_file_path):
+        print("No Weibo Emoji list found.")
         return
 
     data_file = open(data_file_path)
