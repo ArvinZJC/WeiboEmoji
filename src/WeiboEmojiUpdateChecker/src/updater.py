@@ -1,11 +1,11 @@
 """
 '''
 Description: a Weibo Emoji list data updater
-Version: 1.0.1.20220401
+Version: 1.0.2.20220403
 Author: Arvin Zhao
 Date: 2022-03-22 19:44:09
 Last Editors: Arvin Zhao
-LastEditTime: 2022-04-01 09:06:58
+LastEditTime: 2022-04-03 08:24:29
 '''
 """
 
@@ -69,7 +69,9 @@ def update(is_scf: bool = False) -> bool:
             is_same = data_new == data_old
 
             if not is_same and not is_scf:
+                output.seek(0)
                 output.write(data_new)
+                output.truncate()
 
         return is_same
 
