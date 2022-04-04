@@ -1,4 +1,4 @@
-# [WeiboEmoji](../../..)/[src](../../../src)/微博表情更新检查器
+# [WeiboEmoji](../../..)/[src](../)/微博表情更新检查器
 
 [English](./README.md) | **简体中文**
 

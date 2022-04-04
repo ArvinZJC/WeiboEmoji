@@ -1,4 +1,4 @@
-# [WeiboEmoji](../../..)/[src](../../../src)/Weibo Emoji Update Checker
+# [WeiboEmoji](../../..)/[src](../)/Weibo Emoji Update Checker
 
 **English** | [简体中文](./README_zhCN.md)
 
