@@ -26,7 +26,7 @@ Weibo, similar to Twitter, is a Chinese microblogging website launched by Sina. 
 
 Previously, Weibo Emoji had a scheme to extract Emoji images from the specified resource folder of the Weibo's APK file, Weibo HTML5, and Weibo Web. It usually required too much manual work, and has been abandoned from Weibo Emoji V4.0.0.
 
-Weibo officially provides [an `emotions` API](https://open.weibo.com/wiki/2/emotions) to get a list of Weibo's Emoji image info. Weibo Emoji now takes advantage of this API to generate Source 1. Hence, Source 1 contains the Emoji images shown in the Weibo's Emoji panel. It is Weibo Emoji's primary source, and uses the official Emoji categories recorded in the list of Weibo's Emoji image info.
+Weibo officially provides [an `emotions` API](https://open.weibo.com/wiki/2/emotions) to get a list of Weibo's Emoji image info. Weibo Emoji now takes advantage of this API to generate Source 1. Hence, Source 1 contains the Emoji images shown in the Weibo's Emoji panel. It is **Weibo Emoji's primary source**, and uses the official Emoji categories recorded in the list of Weibo's Emoji image info.
 
 ### [img/source_2](./img/source_2) 🧐
 

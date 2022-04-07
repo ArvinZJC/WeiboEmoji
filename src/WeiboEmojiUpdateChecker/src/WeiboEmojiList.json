@@ -1023,17 +1023,6 @@
         "picid": ""
     },
     {
-        "phrase": "[\u5c0f\u767d\u83ca]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/20/2022_feverfew_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/20/2022_feverfew_thumb.png",
-        "value": "[\u5c0f\u767d\u83ca]",
-        "picid": ""
-    },
-    {
         "phrase": "[\u62a5\u7a0e]",
         "type": "face",
         "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/0f/2022_baoshui_org.png",
