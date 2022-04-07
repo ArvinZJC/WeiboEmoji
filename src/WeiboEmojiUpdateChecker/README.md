@@ -15,7 +15,7 @@ Weibo Emoji Update Checker uses [the `emotions` API](https://open.weibo.com/wiki
    | onepush       |  1.1.1  |
    | python-dotenv | 0.19.2  |
 
-2. You could manually create a file named `.env` or `.env.local` under the update checker's `src` directory and contain the following content. Please note that it is _optional_, and that **the project should work well without it**.
+2. You could manually create a file named `.env` under the update checker's `src` directory and contain the following content. Please note that it is _optional_, and that **the project should work well without it**.
 
    ```sh
    # Set the following environment variables to allow sending messages to your Telegram bot.

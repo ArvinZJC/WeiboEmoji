@@ -20,7 +20,7 @@ For more info about Part 1, please refer to [the README file in the folder `Weib
    | Pillow        |  9.1.0  |
    | python-dotenv | 0.19.2  |
 
-2. You could manually create a file named `.env` or `.env.local` under the `src` directory and contain the following content. Please note that it is _optional_, and that **the project should work well without it**.
+2. You could manually create a file named `.env` under the `src` directory and contain the following content. Please note that it is _optional_, and that **the project should work well without it**.
 
    ```sh
    VERSION=<the version of the new release; e.g., 4.0.0>
