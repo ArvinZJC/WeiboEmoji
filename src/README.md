@@ -13,7 +13,7 @@ For more info about Part 1, please refer to [the README file in the folder `Weib
 
 > May I have your attention pls? 🔥
 
-1. The helper scripts are licensed under [the GPL-3.0 License](../LICENSE). By 7 April 2022, everything looks good with Visual Studio Code (Version: 1.66.0) + Python 3.10.2. The primary packages of Part 2 are listed in the following table. For more info, please refer to [`requirements.txt`](./requirements.txt).
+1. The helper scripts are licensed under [the GPL-3.0 License](../LICENSE). By 26 April 2022, everything looks good with Visual Studio Code (Version: 1.66.2) + Python 3.10.2. The primary packages of Part 2 are listed in the following table. For more info, please refer to [`requirements.txt`](./requirements.txt).
 
    | Name          | Version |
    | :------------ | :-----: |

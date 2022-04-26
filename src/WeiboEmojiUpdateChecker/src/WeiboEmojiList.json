@@ -1023,6 +1023,28 @@
         "picid": ""
     },
     {
+        "phrase": "[\u653e\u5047]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/6b/2021_fangjia_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/6b/2021_fangjia_thumb.png",
+        "value": "[\u653e\u5047]",
+        "picid": ""
+    },
+    {
+        "phrase": "[\u8c03\u4f11]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/2d/2021_tiaoxiu_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/2d/2021_tiaoxiu_thumb.png",
+        "value": "[\u8c03\u4f11]",
+        "picid": ""
+    },
+    {
         "phrase": "[\u62a5\u7a0e]",
         "type": "face",
         "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/0f/2022_baoshui_org.png",
@@ -1166,17 +1188,6 @@
         "picid": ""
     },
     {
-        "phrase": "[\u5355\u8eab\u5956\u676f]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/27/2022_Asingletrophy_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/27/2022_Asingletrophy_thumb.png",
-        "value": "[\u5355\u8eab\u5956\u676f]",
-        "picid": ""
-    },
-    {
         "phrase": "[\u7eff\u9a6c]",
         "type": "face",
         "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/df/2022_Greenhorse_org.png",
@@ -1218,17 +1229,6 @@
         "category": "",
         "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/2021_YoungFamily_thumb.png",
         "value": "[\u6625\u6e38\u5bb6\u65cf]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u653e\u5047]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/6b/2021_fangjia_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/6b/2021_fangjia_thumb.png",
-        "value": "[\u653e\u5047]",
         "picid": ""
     },
     {
