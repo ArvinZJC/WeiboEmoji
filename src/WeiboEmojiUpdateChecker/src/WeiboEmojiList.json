@@ -1023,6 +1023,17 @@
         "picid": ""
     },
     {
+        "phrase": "[\u7816\u5934]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/5d/2022_Brick_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/5d/2022_Brick_thumb.png",
+        "value": "[\u7816\u5934]",
+        "picid": ""
+    },
+    {
         "phrase": "[\u56fd\u9cd7\u5d1b\u8d77]",
         "type": "face",
         "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c2/2022_RiseofChineseEel_org.png",
@@ -1141,17 +1152,6 @@
         "category": "",
         "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/cb/2022_Flowers_thumb.png",
         "value": "[\u9001\u82b1\u82b1]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u798f\u6c14\u864e]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/08/2022_AuspiciousTiger_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/08/2022_AuspiciousTiger_thumb.png",
-        "value": "[\u798f\u6c14\u864e]",
         "picid": ""
     },
     {
