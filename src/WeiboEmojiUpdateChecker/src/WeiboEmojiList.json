@@ -1023,6 +1023,17 @@
         "picid": ""
     },
     {
+        "phrase": "[\u56e2\u5b9d]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/38/2022_Tuanbao_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/38/2022_Tuanbao_thumb.png",
+        "value": "[\u56e2\u5b9d]",
+        "picid": ""
+    },
+    {
         "phrase": "[\u7816\u5934]",
         "type": "face",
         "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/5d/2022_Brick_org.png",
