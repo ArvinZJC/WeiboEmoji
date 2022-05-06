@@ -1023,6 +1023,39 @@
         "picid": ""
     },
     {
+        "phrase": "[\u8c22\u54b1\u5988]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/93/2022_Thankyou,mom_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/93/2022_Thankyou,mom_thumb.png",
+        "value": "[\u8c22\u54b1\u5988]",
+        "picid": ""
+    },
+    {
+        "phrase": "[\u53d1\u5c04\u7231\u5fc3]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/51/2022_Launchmylove_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/51/2022_Launchmylove_thumb.png",
+        "value": "[\u53d1\u5c04\u7231\u5fc3]",
+        "picid": ""
+    },
+    {
+        "phrase": "[\u6bcd\u4eb2\u8282]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/55/2022_Mother\u2019sDay_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/55/2022_Mother\u2019sDay_thumb.png",
+        "value": "[\u6bcd\u4eb2\u8282]",
+        "picid": ""
+    },
+    {
         "phrase": "[\u56e2\u5b9d]",
         "type": "face",
         "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/38/2022_Tuanbao_org.png",
