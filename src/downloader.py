@@ -1,15 +1,16 @@
 """
 '''
 Description: a Weibo Emoji image downloader
-Version: 1.0.3.20220403
+Version: 1.0.4.20220506
 Author: Arvin Zhao
 Date: 2022-03-25 15:08:27
 Last Editors: Arvin Zhao
-LastEditTime: 2022-04-03 08:37:02
+LastEditTime: 2022-05-06 14:38:40
 '''
 """
 
 from typing import Dict, List, Optional
+from urllib.parse import quote
 from urllib.request import urlretrieve
 import json
 import os
@@ -45,7 +46,7 @@ def download() -> None:
             os.makedirs(category_dir)
 
         urlretrieve(
-            url,
+            quote(url, safe=":/"),
             os.path.join(
                 category_dir, "{}{}".format(value[1:-1], url[url.rindex(".") :])
             ),
