@@ -1,11 +1,11 @@
 """
 '''
 Description: a Weibo Emoji image downloader
-Version: 1.0.4.20220506
+Version: 1.0.5.20220517
 Author: Arvin Zhao
 Date: 2022-03-25 15:08:27
 Last Editors: Arvin Zhao
-LastEditTime: 2022-05-06 14:38:40
+LastEditTime: 2022-05-17 13:10:29
 '''
 """
 
@@ -62,7 +62,7 @@ def load_emoji_list() -> List[Dict]:
         The Weibo Emoji list.
     """
     data_file_path = os.path.join(
-        ".", "WeiboEmojiUpdateChecker", "src", "WeiboEmojiList.json"
+        ".", "weibo-emoji-update-checker", "weibo-emoji-list.json"
     )
 
     if not os.path.exists(data_file_path):

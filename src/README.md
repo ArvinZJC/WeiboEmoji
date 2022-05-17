@@ -7,13 +7,13 @@ The `src` folder contains the helper scripts to make it more convenient to gener
 1. Weibo Emoji Update Checker.
 2. The scripts to download Source 1 and process both sources to generate the content for a new release.
 
-For more info about Part 1, please refer to [the README file in the folder `WeiboEmojiUpdateChecker`](./WeiboEmojiUpdateChecker/README.md). As for Part 2, the scripts contain 3 script files - the main entry, the downloader, and the output generator to process both sources. This README file primarily introduces Part 2.
+For more info about Part 1, please refer to [the README file in the folder `weibo-emoji-update-checker`](./weibo-emoji-update-checker/README.md). As for Part 2, the scripts contain 3 script files - the main entry, the downloader, and the output generator to process both sources. This README file primarily introduces Part 2.
 
 ## ❗ ATTENTION
 
 > May I have your attention pls? 🔥
 
-1. The helper scripts are licensed under [the GPL-3.0 License](../LICENSE). By 8 May 2022, everything looks good with Visual Studio Code (Version: 1.67.0) + Python 3.10.4. The primary packages of Part 2 are listed in the following table. For more info, please refer to [`requirements.txt`](./requirements.txt).
+1. The helper scripts are licensed under [the GPL-3.0 License](../LICENSE). By 17 May 2022, everything looks good with Visual Studio Code (Version: 1.67.0) + Python 3.10.4. The primary packages of Part 2 are listed in the following table. For more info, please refer to [`requirements.txt`](./requirements.txt).
 
    | Name          | Version |
    | :------------ | :-----: |
