@@ -13,11 +13,11 @@
 
 > 敲黑板了！敲黑板了！🔥
 
-1. 工具脚本使用 [GPL-3.0 协议](../LICENSE)。截至 2022 年 5 月 17 日，使用 Visual Studio Code（版本：1.67.0）和 Python 3.10.4 开发表现良好。第 2 部分主要的包参见下面的表格。更多信息请参见 [`requirements.txt`](./requirements.txt)。
+1. 工具脚本使用 [GPL-3.0 协议](../LICENSE)。截至 2022 年 5 月 20 日，使用 Visual Studio Code（版本：1.67.2）和 Python 3.10.4 开发表现良好。第 2 部分主要的包参见下面的表格。更多信息请参见 [`requirements.txt`](./requirements.txt)。
 
    | 名称          |  版本  |
    | :------------ | :----: |
-   | Pillow        | 9.1.0  |
+   | Pillow        | 9.1.1  |
    | python-dotenv | 0.20.0 |
 
 2. 您可以在 `src` 目录下手动创建名为 `.env` 的文件，并包含如下内容。请注意这个操作 _可选_。**在没有这个文件的情况下，此项目应仍能良好运行。**
