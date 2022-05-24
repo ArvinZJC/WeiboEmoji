@@ -1023,6 +1023,28 @@
         "picid": ""
     },
     {
+        "phrase": "[Redmix\u963f\u7ae5\u6728]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/7f/2022_RedmixAstroboy_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/7f/2022_RedmixAstroboy_thumb.png",
+        "value": "[Redmix\u963f\u7ae5\u6728]",
+        "picid": ""
+    },
+    {
+        "phrase": "[\u6df1\u8e72\u55b5]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/8b/2022_dundun_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/8b/2022_dundun_thumb.png",
+        "value": "[\u6df1\u8e72\u55b5]",
+        "picid": ""
+    },
+    {
         "phrase": "[\u6c34\u7a3b]",
         "type": "face",
         "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/e2/2021_shuidao_org.png",
@@ -1218,17 +1240,6 @@
         "category": "",
         "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/cb/2022_Flowers_thumb.png",
         "value": "[\u9001\u82b1\u82b1]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u66b4\u53d1\u864e]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/b8/2022_richtiger_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/b8/2022_richtiger_thumb.png",
-        "value": "[\u66b4\u53d1\u864e]",
         "picid": ""
     },
     {

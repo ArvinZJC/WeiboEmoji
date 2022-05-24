@@ -1,15 +1,15 @@
 """
 '''
 Description: a Weibo Emoji image downloader
-Version: 1.0.5.20220517
+Version: 1.0.6.20220524
 Author: Arvin Zhao
 Date: 2022-03-25 15:08:27
 Last Editors: Arvin Zhao
-LastEditTime: 2022-05-17 13:10:29
+LastEditTime: 2022-05-24 12:43:12
 '''
 """
 
-from typing import Dict, List, Optional
+from typing import Optional
 from urllib.parse import quote
 from urllib.request import urlretrieve
 import json
@@ -53,12 +53,12 @@ def download() -> None:
         )
 
 
-def load_emoji_list() -> List[Dict]:
+def load_emoji_list() -> list[dict]:
     """Load the Weibo Emoji list.
 
     Returns
     -------
-    List[Dict]
+    list[dict]
         The Weibo Emoji list.
     """
     data_file_path = os.path.join(
@@ -70,7 +70,7 @@ def load_emoji_list() -> List[Dict]:
         return []
 
     data_file = open(data_file_path)
-    images: List[Dict] = json.load(data_file)
+    images: list[dict] = json.load(data_file)
     data_file.close()
     return images
 

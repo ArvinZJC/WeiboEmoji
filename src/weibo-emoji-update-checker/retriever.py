@@ -1,21 +1,21 @@
 """
 '''
 Description: a Weibo Emoji list raw data retriever
-Version: 1.0.1.20220401
+Version: 1.0.2.20220524
 Author: Arvin Zhao
 Date: 2022-03-22 19:50:51
 Last Editors: Arvin Zhao
-LastEditTime: 2022-04-01 09:07:12
+LastEditTime: 2022-05-24 12:41:35
 '''
 """
 
-from typing import List, Optional
+from typing import Optional
 from urllib.request import urlopen
 import json
 import os
 
 
-def retrieve() -> Optional[List]:
+def retrieve() -> Optional[list]:
     """Retrieve the Weibo Emoji list raw data retriever.
 
     Returns
