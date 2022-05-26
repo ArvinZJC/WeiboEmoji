@@ -1144,17 +1144,6 @@
         "picid": ""
     },
     {
-        "phrase": "[\u56fd\u9cd7\u5d1b\u8d77]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c2/2022_RiseofChineseEel_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c2/2022_RiseofChineseEel_thumb.png",
-        "value": "[\u56fd\u9cd7\u5d1b\u8d77]",
-        "picid": ""
-    },
-    {
         "phrase": "[HO\u4eb2\u4eb2]",
         "type": "face",
         "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/4d/2022_KissofH2O_org.png",
@@ -1240,6 +1229,17 @@
         "category": "",
         "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/cb/2022_Flowers_thumb.png",
         "value": "[\u9001\u82b1\u82b1]",
+        "picid": ""
+    },
+    {
+        "phrase": "[\u4e3e\u6760\u94c3]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/bb/2022_Weightlifting_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/bb/2022_Weightlifting_thumb.png",
+        "value": "[\u4e3e\u6760\u94c3]",
         "picid": ""
     },
     {
