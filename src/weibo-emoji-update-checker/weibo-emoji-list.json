@@ -1210,6 +1210,17 @@
         "picid": ""
     },
     {
+        "phrase": "[\u6210\u4eba\u793c]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/54/2022_adults_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/54/2022_adults_thumb.png",
+        "value": "[\u6210\u4eba\u793c]",
+        "picid": ""
+    },
+    {
         "phrase": "[\u6bd5\u4e1a\u5e3d]",
         "type": "face",
         "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/e5/2022_Graduationcap_org.png",
