@@ -1034,17 +1034,6 @@
         "picid": ""
     },
     {
-        "phrase": "[\u6df1\u8e72\u55b5]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/8b/2022_dundun_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/8b/2022_dundun_thumb.png",
-        "value": "[\u6df1\u8e72\u55b5]",
-        "picid": ""
-    },
-    {
         "phrase": "[\u6c34\u7a3b]",
         "type": "face",
         "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/e2/2021_shuidao_org.png",
@@ -1056,39 +1045,6 @@
         "picid": ""
     },
     {
-        "phrase": "[520]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/1e/2022_520_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/1e/2022_520_thumb.png",
-        "value": "[520]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u81ea\u62b1]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/2022_Holdyourself_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/2022_Holdyourself_thumb.png",
-        "value": "[\u81ea\u62b1]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u78d5\u5230\u4e86]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/16/2022_Lovewith_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/16/2022_Lovewith_thumb.png",
-        "value": "[\u78d5\u5230\u4e86]",
-        "picid": ""
-    },
-    {
         "phrase": "[\u98ce\u7b5d]",
         "type": "face",
         "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/05/2022_Kite_org.png",
@@ -1097,28 +1053,6 @@
         "category": "",
         "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/05/2022_Kite_thumb.png",
         "value": "[\u98ce\u7b5d]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u8c22\u54b1\u5988]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/93/2022_Thankyou,mom_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/93/2022_Thankyou,mom_thumb.png",
-        "value": "[\u8c22\u54b1\u5988]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u53d1\u5c04\u7231\u5fc3]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/51/2022_Launchmylove_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/51/2022_Launchmylove_thumb.png",
-        "value": "[\u53d1\u5c04\u7231\u5fc3]",
         "picid": ""
     },
     {
@@ -1141,28 +1075,6 @@
         "category": "",
         "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/d2/2022_Meng_thumb.png",
         "value": "[\u840c\u63a2\u55e8\u55e8]",
-        "picid": ""
-    },
-    {
-        "phrase": "[HO\u4eb2\u4eb2]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/4d/2022_KissofH2O_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/4d/2022_KissofH2O_thumb.png",
-        "value": "[HO\u4eb2\u4eb2]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u5f69\u706f\u53d1\u6012]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/a2/2022_AngryCaiDeng_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/a2/2022_AngryCaiDeng_thumb.png",
-        "value": "[\u5f69\u706f\u53d1\u6012]",
         "picid": ""
     },
     {
