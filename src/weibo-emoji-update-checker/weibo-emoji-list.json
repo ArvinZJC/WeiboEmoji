@@ -1023,6 +1023,17 @@
         "picid": ""
     },
     {
+        "phrase": "[\u5feb\u4e50\u55b5]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/4e/2022_happytmall_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/4e/2022_happytmall_thumb.png",
+        "value": "[\u5feb\u4e50\u55b5]",
+        "picid": ""
+    },
+    {
         "phrase": "[Redmix\u963f\u7ae5\u6728]",
         "type": "face",
         "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/7f/2022_RedmixAstroboy_org.png",
@@ -1031,6 +1042,28 @@
         "category": "",
         "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/7f/2022_RedmixAstroboy_thumb.png",
         "value": "[Redmix\u963f\u7ae5\u6728]",
+        "picid": ""
+    },
+    {
+        "phrase": "[\u5feb\u4e50\u7cd6]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/b9/2022_Happycandy_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/b9/2022_Happycandy_thumb.png",
+        "value": "[\u5feb\u4e50\u7cd6]",
+        "picid": ""
+    },
+    {
+        "phrase": "[\u6447\u6447\u9a6c]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/4f/2022_Rockinghorse_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/4f/2022_Rockinghorse_thumb.png",
+        "value": "[\u6447\u6447\u9a6c]",
         "picid": ""
     },
     {
