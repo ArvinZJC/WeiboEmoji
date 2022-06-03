@@ -1023,6 +1023,39 @@
         "picid": ""
     },
     {
+        "phrase": "[\u6211\u6700\u7cbd\u610f\u4f60]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/62/2022_Ilikeyoubest_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/62/2022_Ilikeyoubest_thumb.png",
+        "value": "[\u6211\u6700\u7cbd\u610f\u4f60]",
+        "picid": ""
+    },
+    {
+        "phrase": "[\u751c\u7cbd\u515a]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/18/2022_Sweetzongzi_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/18/2022_Sweetzongzi_thumb.png",
+        "value": "[\u751c\u7cbd\u515a]",
+        "picid": ""
+    },
+    {
+        "phrase": "[\u54b8\u7cbd\u515a]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/68/2022_Saltedzongzi_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/68/2022_Saltedzongzi_thumb.png",
+        "value": "[\u54b8\u7cbd\u515a]",
+        "picid": ""
+    },
+    {
         "phrase": "[\u5feb\u4e50\u55b5]",
         "type": "face",
         "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/4e/2022_happytmall_org.png",
@@ -1064,6 +1097,17 @@
         "category": "",
         "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/4f/2022_Rockinghorse_thumb.png",
         "value": "[\u6447\u6447\u9a6c]",
+        "picid": ""
+    },
+    {
+        "phrase": "[\u4f9d\u8bfa\u671f\u5f85]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c6/2022_EagerFace_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c6/2022_EagerFace_thumb.png",
+        "value": "[\u4f9d\u8bfa\u671f\u5f85]",
         "picid": ""
     },
     {
