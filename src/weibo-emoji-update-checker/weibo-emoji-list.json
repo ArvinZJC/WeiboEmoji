@@ -2288,39 +2288,6 @@
         "picid": ""
     },
     {
-        "phrase": "[\u5fae\u98ce]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c7/2018new_weifeng_thumb.png",
-        "hot": false,
-        "common": false,
-        "category": "\u5176\u4ed6",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c7/2018new_weifeng_thumb.png",
-        "value": "[\u5fae\u98ce]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u8721\u70db]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/16/2018new_lazhu_org.png",
-        "hot": false,
-        "common": false,
-        "category": "\u5176\u4ed6",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/16/2018new_lazhu_org.png",
-        "value": "[\u8721\u70db]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u86cb\u7cd5]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/f9/2018new_dangao_org.png",
-        "hot": false,
-        "common": false,
-        "category": "\u5176\u4ed6",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/f9/2018new_dangao_org.png",
-        "value": "[\u86cb\u7cd5]",
-        "picid": ""
-    },
-    {
         "phrase": "[\u770b\u6da8]",
         "type": "face",
         "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/fe/kanzhangv2_org.gif",
