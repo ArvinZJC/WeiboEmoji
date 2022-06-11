@@ -1,6 +1,6 @@
 # [WeiboEmoji](../../..)/src
 
-**English** | [简体中文](./README_zhCN.md)
+**English** | [简体中文](./README_zhHans.md)
 
 The `src` folder contains the helper scripts to make it more convenient to generate a new release. These scripts can be divided into 2 parts as follows.
 

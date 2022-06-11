@@ -7,7 +7,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ArvinZJC/WeiboEmoji)
 ![GitHub](https://img.shields.io/github/license/ArvinZJC/WeiboEmoji)
 
-**English** | [简体中文](./README_zhCN.md)
+**English** | [简体中文](./README_zhHans.md)
 
 Weibo, similar to Twitter, is a Chinese microblogging website launched by Sina. **Weibo Emoji** is a repository for saving and sharing most Emoji images that are used/were previously used by the app Weibo. It contains **589 Emoji images**. There is no best, only better. So do you use Weibo? If yes, why not click the following badge<sup id="source1">[1](#footnote1)</sup> and **follow me now**? 😆
 

@@ -1,6 +1,6 @@
 # [WeiboEmoji](../../..)/[src](../)/Weibo Emoji Update Checker
 
-**English** | [简体中文](./README_zhCN.md)
+**English** | [简体中文](./README_zhHans.md)
 
 Weibo Emoji Update Checker uses [the `emotions` API](https://open.weibo.com/wiki/2/emotions) officially provided by Weibo to retrieve and store a list of Weibo's Emoji image info in a JSON data file. The file is essential and processed to help generate a new release.
 
