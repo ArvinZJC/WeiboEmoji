@@ -7,7 +7,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ArvinZJC/WeiboEmoji)
 ![GitHub](https://img.shields.io/github/license/ArvinZJC/WeiboEmoji)
 
-[English](./README.md) | **简体中文**
+[English (United Kingdom)](./README.md) | **中文（简体，中国）**
 
 新浪微博是啥就不用多介绍了哈，我相信能看懂汉字的人基本都知道那货是个啥。**微博 Emoji** 这个“项目”旨在保存并分享微博 app 提供或提供过的大部分 Emoji 表情。它包含 **589 张表情图片**，这可是鄙人悉心整理之作 ~~（往自己脸上贴金）~~。没有最好最全，只有更好更全。不管怎么说，玩儿微博的老铁们不如点点下面的徽章<sup id="source1">[1](#footnote1)</sup>来**加一波关注**？😆
 
@@ -18,7 +18,7 @@
 > 敲黑板了！敲黑板了！🔥
 
 1. 重要的事情说三遍。禁商！禁商！禁商！您可以将喜欢的表情添加到像微信和 QQ 这样的聊天应用的表情收藏中。您当然还可以向别人疯狂安利哦！👍
-2. 在[发行](../../releases)部分，您可以找到最新版本更新日志和可下载的 ZIP 文件。这个压缩文件包含 2 个部分——`original` 和 `gif`。前者提供由源 1 和 2 组合得到的 Emoji 表情，后者是为了您的便利由前者转换得到的 GIF 图片<sup id="source2">[2](#footnote2)</sup>。更多关于如何生成这个压缩文件的内容的信息请参见 [`src` 文件夹下的 README](./src/README-zhCN.md)。
+2. 在[发行](../../releases)部分，您可以找到最新版本更新日志和可下载的 ZIP 文件。这个压缩文件包含 2 个部分——`original` 和 `gif`。前者提供由源 1 和 2 组合得到的 Emoji 表情，后者是为了您的便利由前者转换得到的 GIF 图片<sup id="source2">[2](#footnote2)</sup>。更多关于如何生成这个压缩文件的内容的信息请参见 [`src` 文件夹下的 README](./src/README-zh-Hans-CN.md)。
 
 ## 📋 文件夹说明
 
@@ -40,7 +40,7 @@
 
 > This is what you learn Computing Science for - automation.<sup id="source3">[3](#footnote3)</sup> 👨‍🔧
 
-工具脚本的设计是为了使新版本的打包更方便。更多信息请参见[此文件夹下的 README](./src/README_zhCN.md)。
+工具脚本的设计是为了使新版本的打包更方便。更多信息请参见[此文件夹下的 README](./src/README_zh-Hans-CN.md)。
 
 更多精彩待发现！希望您会爱上她！💖
 

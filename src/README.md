@@ -1,6 +1,6 @@
 # [WeiboEmoji](../../..)/src
 
-**English** | [简体中文](./README_zhHans.md)
+**English (United Kingdom)** | [中文（简体，中国）](./README_zh-Hans-CN.md)
 
 The `src` folder contains the helper scripts to make it more convenient to generate a new release. These scripts can be divided into 2 parts as follows.
 
@@ -13,7 +13,7 @@ For more info about Part 1, please refer to [the README file in the folder `weib
 
 > May I have your attention pls? 🔥
 
-1. The helper scripts are licensed under [the GPL-3.0 License](../LICENSE). By 8 June 2022, everything looks good with Visual Studio Code (Version: 1.67.2) + Python 3.10.4. The primary packages of Part 2 are listed in the following table. For more info, please refer to [`requirements.txt`](./requirements.txt).
+1. The helper scripts are licensed under [the GPL-3.0 Licence](../LICENCE). By 12 June 2022, everything looks good with Visual Studio Code (Version: 1.68.0) + Python 3.10.4. The primary packages of Part 2 are listed in the following table. For more info, please refer to [`requirements.txt`](./requirements.txt).
 
    | Name          | Version |
    | :------------ | :-----: |

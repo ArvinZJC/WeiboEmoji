@@ -1,6 +1,6 @@
 # [WeiboEmoji](../../..)/[src](../)/微博表情更新检查器
 
-[English](./README.md) | **简体中文**
+[English (United Kingdom)](./README.md) | **中文（简体，中国）**
 
 微博更新检查器使用微博官方提供的 [`emotions` 接口](https://open.weibo.com/wiki/2/emotions)来查询微博表情图片信息，并将它们保存在一个 JSON 数据文件中。这个数据文件是用来帮助打包新版本必不可少的数据来源。
 
@@ -8,7 +8,7 @@
 
 > 敲黑板了！敲黑板了！🔥
 
-1. 截至 2022 年 6 月 8 日，使用 Visual Studio Code（版本：1.67.2）和 Python 3.9 开发表现良好。此更新检查器主要的包参见下面的表格。更多信息请参见[在更新检查器的 `src` 目录下的 `requirements.txt`](./src/requirements.txt)。
+1. 截至 2022 年 6 月 12 日，使用 Visual Studio Code（版本：1.68.0）和 Python 3.9 开发表现良好。此更新检查器主要的包参见下面的表格。更多信息请参见[在更新检查器的 `src` 目录下的 `requirements.txt`](./src/requirements.txt)。
 
    | 名称          |  版本  |
    | :------------ | :----: |
