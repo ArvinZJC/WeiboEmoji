@@ -13,7 +13,7 @@
 
 > 敲黑板了！敲黑板了！🔥
 
-1. 工具脚本使用 [GPL-3.0 协议](../LICENCE)。截至 2022 年 6 月 14 日，使用 Visual Studio Code（版本：1.68.0）和 Python 3.10.4 开发表现良好。第 2 部分主要的包参见下面的表格。更多信息请参见 [`requirements.txt`](./requirements.txt)。
+1. 工具脚本使用 [GPL-3.0 协议](../LICENCE)。截至 2022 年 6 月 16 日，使用 Visual Studio Code（版本：1.68.1）和 Python 3.10.4 开发表现良好。第 2 部分主要的包参见下面的表格。更多信息请参见 [`requirements.txt`](./requirements.txt)。
 
    | 名称          |  版本  |
    | :------------ | :----: |
