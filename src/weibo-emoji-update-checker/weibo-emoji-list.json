@@ -1111,6 +1111,50 @@
         "picid": ""
     },
     {
+        "phrase": "[\u822a\u6bcd]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/dd/2022_AircraftCarrier_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/dd/2022_AircraftCarrier_thumb.png",
+        "value": "[\u822a\u6bcd]",
+        "picid": ""
+    },
+    {
+        "phrase": "[\u7236\u4eb2\u8282]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/a0/2022_FathersDay_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/a0/2022_FathersDay_thumb.png",
+        "value": "[\u7236\u4eb2\u8282]",
+        "picid": ""
+    },
+    {
+        "phrase": "[\u6211\u7231\u8001\u7238]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c2/2022_Ilovedad_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c2/2022_Ilovedad_thumb.png",
+        "value": "[\u6211\u7231\u8001\u7238]",
+        "picid": ""
+    },
+    {
+        "phrase": "[\u4eca\u65e5\u6765\u5ba0\u7238]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/f5/2022_DoteonDadtoday_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/f5/2022_DoteonDadtoday_thumb.png",
+        "value": "[\u4eca\u65e5\u6765\u5ba0\u7238]",
+        "picid": ""
+    },
+    {
         "phrase": "[\u51b2\u523a]",
         "type": "face",
         "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/ac/2022_Sprint_org.png",
@@ -1152,17 +1196,6 @@
         "category": "",
         "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/4e/2022_happytmall_thumb.png",
         "value": "[\u5feb\u4e50\u55b5]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u6c34\u7a3b]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/e2/2021_shuidao_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/e2/2021_shuidao_thumb.png",
-        "value": "[\u6c34\u7a3b]",
         "picid": ""
     },
     {
