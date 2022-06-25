@@ -1100,17 +1100,6 @@
         "picid": ""
     },
     {
-        "phrase": "[\u738b\u8001\u5409]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/7d/2022_wanglaoji_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/7d/2022_wanglaoji_thumb.png",
-        "value": "[\u738b\u8001\u5409]",
-        "picid": ""
-    },
-    {
         "phrase": "[\u822a\u6bcd]",
         "type": "face",
         "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/dd/2022_AircraftCarrier_org.png",
