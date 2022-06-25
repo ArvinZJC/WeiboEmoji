@@ -5,7 +5,6 @@
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ArvinZJC/WeiboEmoji?include_prereleases)](../../releases)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/fa57831c35a64a3d819b15255125d98b)](https://www.codacy.com/gh/ArvinZJC/WeiboEmoji/dashboard?utm_source=github.com&utm_medium=referral&utm_content=ArvinZJC/WeiboEmoji&utm_campaign=Badge_Grade)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ArvinZJC/WeiboEmoji)
-![GitHub](https://img.shields.io/github/license/ArvinZJC/WeiboEmoji)
 
 [English (United Kingdom)](./README.md) | **中文（简体，中国）**
 
@@ -40,7 +39,7 @@
 
 > This is what you learn Computing Science for - automation.<sup id="source3">[3](#footnote3)</sup> 👨‍🔧
 
-工具脚本的设计是为了使新版本的打包更方便。更多信息请参见[此文件夹下的 README](./src/README_zh-Hans-CN.md)。
+工具脚本的设计是为了使新版本的打包更方便。请注意这些脚本使用 [GPL-3.0 协议](./LICENCE)。更多信息请参见[此文件夹下的 README](./src/README_zh-Hans-CN.md)。
 
 更多精彩待发现！希望您会爱上她！💖
 

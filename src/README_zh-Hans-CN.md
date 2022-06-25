@@ -1,5 +1,7 @@
 # [WeiboEmoji](../../..)/src
 
+[![GitHub](https://img.shields.io/github/license/ArvinZJC/WeiboEmoji)](../LICENCE)
+
 [English (United Kingdom)](./README.md) | **中文（简体，中国）**
 
 `src` 文件夹包含使新版本的打包更方便的工具脚本。这些脚本可被分为如下的 2 部分。
@@ -13,7 +15,7 @@
 
 > 敲黑板了！敲黑板了！🔥
 
-1. 工具脚本使用 [GPL-3.0 协议](../LICENCE)。截至 2022 年 6 月 25 日，使用 Visual Studio Code（版本：1.68.1）和 Python 3.10.4 开发表现良好。第 2 部分主要的包参见下面的表格。更多信息请参见 [`requirements.txt`](./requirements.txt)。
+1. 截至 2022 年 6 月 25 日，使用 Visual Studio Code（版本：1.68.1）和 Python 3.10.4 开发表现良好。第 2 部分主要的包参见下面的表格。更多信息请参见 [`requirements.txt`](./requirements.txt)。
 
    | 名称          |  版本  |
    | :------------ | :----: |

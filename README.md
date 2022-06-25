@@ -5,7 +5,6 @@
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ArvinZJC/WeiboEmoji?include_prereleases)](../../releases)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/fa57831c35a64a3d819b15255125d98b)](https://www.codacy.com/gh/ArvinZJC/WeiboEmoji/dashboard?utm_source=github.com&utm_medium=referral&utm_content=ArvinZJC/WeiboEmoji&utm_campaign=Badge_Grade)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ArvinZJC/WeiboEmoji)
-![GitHub](https://img.shields.io/github/license/ArvinZJC/WeiboEmoji)
 
 **English (United Kingdom)** | [中文（简体，中国）](./README_zh-Hans-CN.md)
 
@@ -18,7 +17,7 @@ Weibo, similar to Twitter, is a Chinese microblogging website launched by Sina. 
 > May I have your attention pls? 🔥
 
 1. All Emoji images should never ever be used for commercial purposes. You could add them into your Emoji favourites of chatting apps like WeChat and QQ. You could recommend them to others, and then you deserve a thumb-up. 👍
-2. You could find the changelog and a ZIP file to download for the latest version in the [Releases](../../releases) section. The ZIP file contains 2 parts - `original` and `gif`. The former provides the Emoji images combined from Sources 1 and 2. The latter are GIF images converted from the former for your convenience<sup id="source2">[2](#footnote2)</sup>. For more info about how the ZIP file's content is generated, please refer to [the README file in the folder `src`](./src/README.md).
+2. You could find the changelog and a ZIP file to download for the latest version in the [releases](../../releases) section. The ZIP file contains 2 parts - `original` and `gif`. The former provides the Emoji images combined from Sources 1 and 2. The latter are GIF images converted from the former for your convenience<sup id="source2">[2](#footnote2)</sup>. For more info about how the ZIP file's content is generated, please refer to [the README file in the folder `src`](./src/README.md).
 
 ## 📋 Folder Instructions
 
@@ -40,7 +39,7 @@ Previously, generating a new release requires completing some steps manually, in
 
 > This is what you learn Computing Science for - automation.<sup id="source3">[3](#footnote3)</sup> 👨‍🔧
 
-The helper scripts are designed to make it more convenient to generate a new release. For more info, please refer to [the README file in this folder](./src/README.md).
+The helper scripts are designed to make it more convenient to generate a new release. Please note that these scripts are licensed under [the GPL-3.0 Licence](./LICENCE). For more info, please refer to [the README file in this folder](./src/README.md).
 
 There is much more for you to explore. Hope you will enjoy it. 💖
 
