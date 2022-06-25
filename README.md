@@ -17,7 +17,7 @@ Weibo, similar to Twitter, is a Chinese microblogging website launched by Sina. 
 > May I have your attention pls? 🔥
 
 1. All Emoji images should never ever be used for commercial purposes. You could add them into your Emoji favourites of chatting apps like WeChat and QQ. You could recommend them to others, and then you deserve a thumb-up. 👍
-2. You could find the changelog and a ZIP file to download for the latest version in the [releases](../../releases) section. The ZIP file contains 2 parts - `original` and `gif`. The former provides the Emoji images combined from Sources 1 and 2. The latter are GIF images converted from the former for your convenience<sup id="source2">[2](#footnote2)</sup>. For more info about how the ZIP file's content is generated, please refer to [the README file in the folder `src`](./src/README.md).
+2. You could find the changelog and a ZIP file to download for the latest version in the [releases](../../releases). The ZIP file contains 2 parts - `original` and `gif`. The former provides the Emoji images combined from Sources 1 and 2. The latter are GIF images converted from the former for your convenience<sup id="source2">[2](#footnote2)</sup>. For more info about how the ZIP file's content is generated, please refer to [the README file in the folder `src`](./src/README.md).
 
 ## 📋 Folder Instructions
 
