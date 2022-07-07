@@ -1089,14 +1089,25 @@
         "picid": ""
     },
     {
-        "phrase": "[\u7406\u60f3L9]",
+        "phrase": "[\u56fd\u7a961573]",
         "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/72/2022_lixiangL9_org.png",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/d3/2022_guojiao1573_org.png",
         "hot": true,
         "common": false,
         "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/72/2022_lixiangL9_thumb.png",
-        "value": "[\u7406\u60f3L9]",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/d3/2022_guojiao1573_thumb.png",
+        "value": "[\u56fd\u7a961573]",
+        "picid": ""
+    },
+    {
+        "phrase": "[\u8bb8\u613f\u661f]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/a8/2022_WishingStar_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/a8/2022_WishingStar_thumb.png",
+        "value": "[\u8bb8\u613f\u661f]",
         "picid": ""
     },
     {
