@@ -1100,6 +1100,17 @@
         "picid": ""
     },
     {
+        "phrase": "[\u5965\u6bd4\u5c9b]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/0e/2022_aobidao_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/0e/2022_aobidao_thumb.png",
+        "value": "[\u5965\u6bd4\u5c9b]",
+        "picid": ""
+    },
+    {
         "phrase": "[\u8bb8\u613f\u661f]",
         "type": "face",
         "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/a8/2022_WishingStar_org.png",
