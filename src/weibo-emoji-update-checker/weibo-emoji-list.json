@@ -1089,17 +1089,6 @@
         "picid": ""
     },
     {
-        "phrase": "[\u56fd\u7a961573]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/d3/2022_guojiao1573_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/d3/2022_guojiao1573_thumb.png",
-        "value": "[\u56fd\u7a961573]",
-        "picid": ""
-    },
-    {
         "phrase": "[\u5965\u6bd4\u5c9b]",
         "type": "face",
         "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/0e/2022_aobidao_org.png",
@@ -1108,6 +1097,28 @@
         "category": "",
         "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/0e/2022_aobidao_thumb.png",
         "value": "[\u5965\u6bd4\u5c9b]",
+        "picid": ""
+    },
+    {
+        "phrase": "[\u82ad\u857e\u732b]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/0c/2022_baleimao_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/0c/2022_baleimao_thumb.png",
+        "value": "[\u82ad\u857e\u732b]",
+        "picid": ""
+    },
+    {
+        "phrase": "[\u8054\u60f3]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/76/2022_Lenovo_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/76/2022_Lenovo_thumb.png",
+        "value": "[\u8054\u60f3]",
         "picid": ""
     },
     {
@@ -1122,6 +1133,28 @@
         "picid": ""
     },
     {
+        "phrase": "[\u96ea\u7cd5\u523a\u5ba2]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/33/2022_IceCreamAssassin_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/33/2022_IceCreamAssassin_thumb.png",
+        "value": "[\u96ea\u7cd5\u523a\u5ba2]",
+        "picid": ""
+    },
+    {
+        "phrase": "[\u96ea\u7cd5\u62a4\u536b]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/58/2022_IceCreamGuard_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/58/2022_IceCreamGuard_thumb.png",
+        "value": "[\u96ea\u7cd5\u62a4\u536b]",
+        "picid": ""
+    },
+    {
         "phrase": "[\u822a\u6bcd]",
         "type": "face",
         "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/dd/2022_AircraftCarrier_org.png",
@@ -1130,39 +1163,6 @@
         "category": "",
         "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/dd/2022_AircraftCarrier_thumb.png",
         "value": "[\u822a\u6bcd]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u7236\u4eb2\u8282]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/a0/2022_FathersDay_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/a0/2022_FathersDay_thumb.png",
-        "value": "[\u7236\u4eb2\u8282]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u6211\u7231\u8001\u7238]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c2/2022_Ilovedad_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/c2/2022_Ilovedad_thumb.png",
-        "value": "[\u6211\u7231\u8001\u7238]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u4eca\u65e5\u6765\u5ba0\u7238]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/f5/2022_DoteonDadtoday_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/f5/2022_DoteonDadtoday_thumb.png",
-        "value": "[\u4eca\u65e5\u6765\u5ba0\u7238]",
         "picid": ""
     },
     {
