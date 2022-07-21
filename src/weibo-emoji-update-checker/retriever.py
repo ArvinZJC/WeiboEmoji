@@ -1,11 +1,11 @@
 """
 '''
 Description: a Weibo Emoji list raw data retriever
-Version: 1.0.2.20220524
+Version: 1.0.3.20220721
 Author: Arvin Zhao
 Date: 2022-03-22 19:50:51
 Last Editors: Arvin Zhao
-LastEditTime: 2022-05-24 12:41:35
+LastEditTime: 2022-07-21 22:29:49
 '''
 """
 
@@ -25,7 +25,7 @@ def retrieve() -> Optional[list]:
     """
     wb_access_token = os.getenv("WB_ACCESS_TOKEN")
 
-    if wb_access_token == None:
+    if wb_access_token is None:
         print("No Weibo access token found.")
         return None
 

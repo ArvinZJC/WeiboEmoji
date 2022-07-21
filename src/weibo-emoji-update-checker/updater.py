@@ -1,11 +1,11 @@
 """
 '''
 Description: a Weibo Emoji list data updater
-Version: 1.1.0.20220517
+Version: 1.1.1.20220721
 Author: Arvin Zhao
 Date: 2022-03-22 19:44:09
 Last Editors: Arvin Zhao
-LastEditTime: 2022-05-17 13:08:43
+LastEditTime: 2022-07-21 22:30:18
 '''
 """
 
@@ -28,7 +28,7 @@ def notify_tg(is_same: bool) -> None:
     tg_bot_token = os.getenv("TG_BOT_TOKEN")
     tg_user_id = os.getenv("TG_USER_ID")
 
-    if tg_bot_token == None or tg_user_id == None:
+    if tg_bot_token is None or tg_user_id is None:
         print("No Telegram bot token or user ID found.")
         return
 
