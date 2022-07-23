@@ -1111,6 +1111,17 @@
         "picid": ""
     },
     {
+        "phrase": "[\u62ff\u94c1DHT]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/47/2022_natieDHT_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/47/2022_natieDHT_thumb.png",
+        "value": "[\u62ff\u94c1DHT]",
+        "picid": ""
+    },
+    {
         "phrase": "[\u878d\u5316]",
         "type": "face",
         "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/53/2022_melt_org.png",
