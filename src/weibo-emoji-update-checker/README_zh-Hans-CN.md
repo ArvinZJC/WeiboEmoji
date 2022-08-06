@@ -8,7 +8,7 @@
 
 > 敲黑板了！敲黑板了！🔥
 
-1. 截至 2022 年 7 月 31 日，使用 Visual Studio Code（版本：1.69.2）和 Python 3.9 开发表现良好。此更新检查器主要的包参见下面的表格。更多信息请参见[在更新检查器的 `src` 目录下的 `requirements.txt`](./src/requirements.txt)。
+1. 截至 2022 年 8 月 6 日，使用 Visual Studio Code（版本：1.70.0）和 Python 3.9 开发表现良好。此更新检查器主要的包参见下面的表格。更多信息请参见[在更新检查器的 `src` 目录下的 `requirements.txt`](./src/requirements.txt)。
 
    | 名称          |  版本  |
    | :------------ | :----: |

@@ -1089,25 +1089,36 @@
         "picid": ""
     },
     {
-        "phrase": "[\u963f\u739b\u5c3c\u828d\u836f]",
+        "phrase": "[\u6843\u82b1\u8d34\u8d34]",
         "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/2022_Armanipeony_org.png",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/5f/2022_PeachStickers_org.png",
         "hot": true,
         "common": false,
         "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/74/2022_Armanipeony_thumb.png",
-        "value": "[\u963f\u739b\u5c3c\u828d\u836f]",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/5f/2022_PeachStickers_thumb.png",
+        "value": "[\u6843\u82b1\u8d34\u8d34]",
         "picid": ""
     },
     {
-        "phrase": "[\u62ff\u94c1DHT]",
+        "phrase": "[\u6843\u82b1]",
         "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/47/2022_natieDHT_org.png",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/31/2022_PeachBlossom_org.png",
         "hot": true,
         "common": false,
         "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/47/2022_natieDHT_thumb.png",
-        "value": "[\u62ff\u94c1DHT]",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/31/2022_PeachBlossom_thumb.png",
+        "value": "[\u6843\u82b1]",
+        "picid": ""
+    },
+    {
+        "phrase": "[\u5355\u8eab\u9752\u86d9]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/6e/2022_LonelyFrog_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/6e/2022_LonelyFrog_thumb.png",
+        "value": "[\u5355\u8eab\u9752\u86d9]",
         "picid": ""
     },
     {
@@ -1207,39 +1218,6 @@
         "category": "",
         "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/30/2022_Koi_thumb.png",
         "value": "[\u9526\u9ca4\u9644\u4f53]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u98ce\u7b5d]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/05/2022_Kite_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/05/2022_Kite_thumb.png",
-        "value": "[\u98ce\u7b5d]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u56e2\u5b9d]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/38/2022_Tuanbao_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/38/2022_Tuanbao_thumb.png",
-        "value": "[\u56e2\u5b9d]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u840c\u63a2\u55e8\u55e8]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/d2/2022_Meng_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/d2/2022_Meng_thumb.png",
-        "value": "[\u840c\u63a2\u55e8\u55e8]",
         "picid": ""
     },
     {
