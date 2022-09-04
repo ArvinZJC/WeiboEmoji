@@ -13,7 +13,7 @@ Weibo Emoji Update Checker uses [the `emotions` API](https://open.weibo.com/wiki
    | Name          | Version |
    | :------------ | :-----: |
    | onepush       |  1.1.1  |
-   | python-dotenv | 0.20.0  |
+   | python-dotenv | 0.21.0  |
 
 2. You could manually create a file named `.env` under the update checker's root directory and contain the following content. Please note that it is _optional_, and that **the update checker should work well without it**.
 

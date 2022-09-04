@@ -20,7 +20,7 @@ For more info about Part 1, please refer to [the README file in the folder `weib
    | Name          | Version |
    | :------------ | :-----: |
    | Pillow        |  9.2.0  |
-   | python-dotenv | 0.20.0  |
+   | python-dotenv | 0.21.0  |
 
 2. You could manually create a file named `.env` under the `src` directory and contain the following content. Please note that it is _optional_, and that **the project should work well without it**.
 
