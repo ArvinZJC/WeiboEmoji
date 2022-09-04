@@ -8,7 +8,7 @@
 
 **English (United Kingdom)** | [中文（简体，中国）](./README_zh-Hans-CN.md)
 
-Weibo, similar to Twitter, is a Chinese microblogging website launched by Sina. **Weibo Emoji** is a repository for saving and sharing most Emoji images that are used/were previously used by the app Weibo. It contains **640 Emoji images**. There is no best, only better. So do you use Weibo? If yes, why not click the following badge<sup id="source1">[1](#footnote1)</sup> and **follow me now**? 😆
+Weibo, similar to Twitter, is a Chinese microblogging website launched by Sina. **Weibo Emoji** is a repository for saving and sharing most Emoji images that are used/were previously used by the app Weibo. It contains **649 Emoji images**. There is no best, only better. So do you use Weibo? If yes, why not click the following badge<sup id="source1">[1](#footnote1)</sup> and **follow me now**? 😆
 
 [![Weibo](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fweibo%2F3218812301&query=count&color=282c34&label=Weibo&labelColor=e6162d&logo=sina-weibo&suffix=+followers&cacheSeconds=3600)](https://weibo.com/3218812301)
 
