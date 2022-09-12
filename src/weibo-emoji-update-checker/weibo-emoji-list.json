@@ -1089,6 +1089,50 @@
         "picid": ""
     },
     {
+        "phrase": "[\u56e2\u5706\u6708\u997c]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/d7/2022_mooncakes_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/d7/2022_mooncakes_thumb.png",
+        "value": "[\u56e2\u5706\u6708\u997c]",
+        "picid": ""
+    },
+    {
+        "phrase": "[\u6708\u4eae\u4ee3\u8868\u6211\u7684\u5fc3]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/2022_Remyheart_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/2022_Remyheart_thumb.png",
+        "value": "[\u6708\u4eae\u4ee3\u8868\u6211\u7684\u5fc3]",
+        "picid": ""
+    },
+    {
+        "phrase": "[\u7389\u5154\u6363\u836f]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/52/2022_rabbitmash_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/52/2022_rabbitmash_thumb.png",
+        "value": "[\u7389\u5154\u6363\u836f]",
+        "picid": ""
+    },
+    {
+        "phrase": "[\u65b0\u9c9c\u597d\u67ff]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/68/2022_TATO_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/68/2022_TATO_thumb.png",
+        "value": "[\u65b0\u9c9c\u597d\u67ff]",
+        "picid": ""
+    },
+    {
         "phrase": "[\u970d\u683c\u6c83\u8328]",
         "type": "face",
         "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/f6/2022_Hogwarts_org.png",
@@ -1185,6 +1229,17 @@
         "category": "",
         "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/8b/2022_get_thumb.png",
         "value": "[\u6536\u5230]",
+        "picid": ""
+    },
+    {
+        "phrase": "[\u8001\u5e08\u597d]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/0d/2022_Teacher_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/0d/2022_Teacher_thumb.png",
+        "value": "[\u8001\u5e08\u597d]",
         "picid": ""
     },
     {

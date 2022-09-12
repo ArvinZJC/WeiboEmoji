@@ -8,7 +8,7 @@
 
 [English (United Kingdom)](./README.md) | **中文（简体，中国）**
 
-新浪微博是啥就不用多介绍了哈，我相信能看懂汉字的人基本都知道那货是个啥。**微博 Emoji** 这个“项目”旨在保存并分享微博 app 提供或提供过的大部分 Emoji 表情。它包含 **649 张表情图片**，这可是鄙人悉心整理之作 ~~（往自己脸上贴金）~~。没有最好最全，只有更好更全。不管怎么说，玩儿微博的老铁们不如点点下面的徽章<sup id="source1">[1](#footnote1)</sup>来**加一波关注**？😆
+新浪微博是啥就不用多介绍了哈，我相信能看懂汉字的人基本都知道那货是个啥。**微博 Emoji** 这个“项目”旨在保存并分享微博 app 提供或提供过的大部分 Emoji 表情。它包含 **684 张表情图片**，这可是鄙人悉心整理之作 ~~（往自己脸上贴金）~~。没有最好最全，只有更好更全。不管怎么说，玩儿微博的老铁们不如点点下面的徽章<sup id="source1">[1](#footnote1)</sup>来**加一波关注**？😆
 
 [![微博](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fweibo%2F3218812301&query=count&color=282c34&label=微博&labelColor=e6162d&logo=sina-weibo&suffix=+粉丝&cacheSeconds=3600)](https://weibo.com/3218812301)
 
