@@ -1089,6 +1089,39 @@
         "picid": ""
     },
     {
+        "phrase": "[\u8363\u8000X40]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/86/2022_HonorX40_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/86/2022_HonorX40_thumb.png",
+        "value": "[\u8363\u8000X40]",
+        "picid": ""
+    },
+    {
+        "phrase": "[\u4e30\u6536\u4e86]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/f2/2022_harvest_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/f2/2022_harvest_thumb.png",
+        "value": "[\u4e30\u6536\u4e86]",
+        "picid": ""
+    },
+    {
+        "phrase": "[\u5fd7\u613f\u8005]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/f2/2022_volunteer_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/f2/2022_volunteer_thumb.png",
+        "value": "[\u5fd7\u613f\u8005]",
+        "picid": ""
+    },
+    {
         "phrase": "[\u56e2\u5706\u6708\u997c]",
         "type": "face",
         "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/d7/2022_mooncakes_org.png",
@@ -1287,17 +1320,6 @@
         "picid": ""
     },
     {
-        "phrase": "[\u6211\u662f\u74dc\u738b]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/79/2022_guawang_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/79/2022_guawang_thumb.png",
-        "value": "[\u6211\u662f\u74dc\u738b]",
-        "picid": ""
-    },
-    {
         "phrase": "[\u8bb8\u613f\u661f]",
         "type": "face",
         "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/a8/2022_WishingStar_org.png",
@@ -1306,28 +1328,6 @@
         "category": "",
         "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/a8/2022_WishingStar_thumb.png",
         "value": "[\u8bb8\u613f\u661f]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u96ea\u7cd5\u523a\u5ba2]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/33/2022_IceCreamAssassin_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/33/2022_IceCreamAssassin_thumb.png",
-        "value": "[\u96ea\u7cd5\u523a\u5ba2]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u96ea\u7cd5\u62a4\u536b]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/58/2022_IceCreamGuard_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/58/2022_IceCreamGuard_thumb.png",
-        "value": "[\u96ea\u7cd5\u62a4\u536b]",
         "picid": ""
     },
     {
