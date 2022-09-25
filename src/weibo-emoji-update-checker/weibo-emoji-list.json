@@ -1089,14 +1089,14 @@
         "picid": ""
     },
     {
-        "phrase": "[\u8363\u8000X40]",
+        "phrase": "[\u5fc3\u76f8\u5370]",
         "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/86/2022_HonorX40_org.png",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/66/2022_loves_org.png",
         "hot": true,
         "common": false,
         "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/86/2022_HonorX40_thumb.png",
-        "value": "[\u8363\u8000X40]",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/66/2022_loves_thumb.png",
+        "value": "[\u5fc3\u76f8\u5370]",
         "picid": ""
     },
     {
@@ -1328,17 +1328,6 @@
         "category": "",
         "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/a8/2022_WishingStar_thumb.png",
         "value": "[\u8bb8\u613f\u661f]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u822a\u6bcd]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/dd/2022_AircraftCarrier_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/dd/2022_AircraftCarrier_thumb.png",
-        "value": "[\u822a\u6bcd]",
         "picid": ""
     },
     {
