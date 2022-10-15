@@ -968,17 +968,6 @@
         "picid": ""
     },
     {
-        "phrase": "[\u5c0f\u4e11]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/6f/2021_xiaochou_org.png",
-        "hot": false,
-        "common": true,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/6f/2021_xiaochou_thumb.png",
-        "value": "[\u5c0f\u4e11]",
-        "picid": ""
-    },
-    {
         "phrase": "[\u6770\u745e]",
         "type": "face",
         "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/da/2021_jerry_org.png",
@@ -1009,39 +998,6 @@
         "category": "",
         "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/8c/2021_naiping_thumb.png",
         "value": "[\u5976\u74f6]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u7406\u60f3L8]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/cb/2022_lixiangL8_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/cb/2022_lixiangL8_thumb.png",
-        "value": "[\u7406\u60f3L8]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u56fd\u5e86\u8fc7\u5f97\u771f\u5feb\u4e50]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/9f/2022_Happy_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/9f/2022_Happy_thumb.png",
-        "value": "[\u56fd\u5e86\u8fc7\u5f97\u771f\u5feb\u4e50]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u5341\u4e00]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/bc/2022_Vacation_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/bc/2022_Vacation_thumb.png",
-        "value": "[\u5341\u4e00]",
         "picid": ""
     },
     {

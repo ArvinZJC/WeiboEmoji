@@ -15,7 +15,7 @@ For more info about Part 1, please refer to [the README file in the folder `weib
 
 > May I have your attention pls? 🔥
 
-1. By 2 October 2022, everything looks good with Visual Studio Code (Version: 1.71.2) + Python 3.10.6. The primary packages of Part 2 are listed in the following table. For more info, please refer to [`requirements.txt`](./requirements.txt).
+1. By 15 October 2022, everything looks good with Visual Studio Code (Version: 1.72.2) + Python 3.10.8. The primary packages of Part 2 are listed in the following table. For more info, please refer to [`requirements.txt`](./requirements.txt).
 
    | Name          | Version |
    | :------------ | :-----: |
