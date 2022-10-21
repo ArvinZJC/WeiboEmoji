@@ -1001,6 +1001,28 @@
         "picid": ""
     },
     {
+        "phrase": "[\u4e00\u52a0]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/07/2022_oneplus_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/07/2022_oneplus_thumb.png",
+        "value": "[\u4e00\u52a0]",
+        "picid": ""
+    },
+    {
+        "phrase": "[OLAY\u8eab\u4f53\u4e73]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/9f/2022_OLAY_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/9f/2022_OLAY_thumb.png",
+        "value": "[OLAY\u8eab\u4f53\u4e73]",
+        "picid": ""
+    },
+    {
         "phrase": "[\u4e30\u6536\u4e86]",
         "type": "face",
         "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/f2/2022_harvest_org.png",
