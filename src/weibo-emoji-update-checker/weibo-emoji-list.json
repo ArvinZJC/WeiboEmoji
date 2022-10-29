@@ -968,6 +968,17 @@
         "picid": ""
     },
     {
+        "phrase": "[\u5c0f\u4e11]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/6f/2021_xiaochou_org.png",
+        "hot": false,
+        "common": true,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/6f/2021_xiaochou_thumb.png",
+        "value": "[\u5c0f\u4e11]",
+        "picid": ""
+    },
+    {
         "phrase": "[\u6770\u745e]",
         "type": "face",
         "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/da/2021_jerry_org.png",
@@ -1001,25 +1012,25 @@
         "picid": ""
     },
     {
-        "phrase": "[\u4e00\u52a0]",
+        "phrase": "[\u7406\u60f3L8]",
         "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/07/2022_oneplus_org.png",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/cb/2022_lixiangL8_org.png",
         "hot": true,
         "common": false,
         "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/07/2022_oneplus_thumb.png",
-        "value": "[\u4e00\u52a0]",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/cb/2022_lixiangL8_thumb.png",
+        "value": "[\u7406\u60f3L8]",
         "picid": ""
     },
     {
-        "phrase": "[OLAY\u8eab\u4f53\u4e73]",
+        "phrase": "[\u4eac\u4e1c1111]",
         "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/9f/2022_OLAY_org.png",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/68/2022_JD618_org.png",
         "hot": true,
         "common": false,
         "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/9f/2022_OLAY_thumb.png",
-        "value": "[OLAY\u8eab\u4f53\u4e73]",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/68/2022_JD618_thumb.png",
+        "value": "[\u4eac\u4e1c1111]",
         "picid": ""
     },
     {
@@ -1042,28 +1053,6 @@
         "category": "",
         "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/f2/2022_volunteer_thumb.png",
         "value": "[\u5fd7\u613f\u8005]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u56e2\u5706\u6708\u997c]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/d7/2022_mooncakes_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/d7/2022_mooncakes_thumb.png",
-        "value": "[\u56e2\u5706\u6708\u997c]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u6708\u4eae\u4ee3\u8868\u6211\u7684\u5fc3]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/2022_Remyheart_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/2022_Remyheart_thumb.png",
-        "value": "[\u6708\u4eae\u4ee3\u8868\u6211\u7684\u5fc3]",
         "picid": ""
     },
     {

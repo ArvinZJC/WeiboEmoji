@@ -15,7 +15,7 @@
 
 > 敲黑板了！敲黑板了！🔥
 
-1. 截至 2022 年 10 月 21 日，使用 Visual Studio Code（版本：1.72.2）和 Python 3.10.8 开发表现良好。第 2 部分主要的包参见下面的表格。更多信息请参见 [`requirements.txt`](./requirements.txt)。
+1. 截至 2022 年 10 月 29 日，使用 Visual Studio Code（版本：1.72.2）和 Python 3.11.0 开发表现良好。第 2 部分主要的包参见下面的表格。更多信息请参见 [`requirements.txt`](./requirements.txt)。
 
    | 名称          |  版本  |
    | :------------ | :----: |
