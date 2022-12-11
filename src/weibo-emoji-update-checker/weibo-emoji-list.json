@@ -1012,25 +1012,58 @@
         "picid": ""
     },
     {
-        "phrase": "[\u7406\u60f3L8]",
+        "phrase": "[\u767d\u8721\u70db]",
         "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/cb/2022_lixiangL8_org.png",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/e8/2022_whitecandle_org.png",
         "hot": true,
         "common": false,
         "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/cb/2022_lixiangL8_thumb.png",
-        "value": "[\u7406\u60f3L8]",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/e8/2022_whitecandle_thumb.png",
+        "value": "[\u767d\u8721\u70db]",
         "picid": ""
     },
     {
-        "phrase": "[\u4eac\u4e1c1111]",
+        "phrase": "[\u83ca\u82b1]",
         "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/68/2022_JD618_org.png",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/14/2022_daisy_org.png",
         "hot": true,
         "common": false,
         "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/68/2022_JD618_thumb.png",
-        "value": "[\u4eac\u4e1c1111]",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/14/2022_daisy_thumb.png",
+        "value": "[\u83ca\u82b1]",
+        "picid": ""
+    },
+    {
+        "phrase": "[\u94a2\u955a\u513f]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/8c/2022_coin_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/8c/2022_coin_thumb.png",
+        "value": "[\u94a2\u955a\u513f]",
+        "picid": ""
+    },
+    {
+        "phrase": "[\u62db\u624b]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/1e/2022_hello_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/1e/2022_hello_thumb.png",
+        "value": "[\u62db\u624b]",
+        "picid": ""
+    },
+    {
+        "phrase": "[\u5e72\u996d\u4eba]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/cb/2022_Foodie_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/cb/2022_Foodie_thumb.png",
+        "value": "[\u5e72\u996d\u4eba]",
         "picid": ""
     },
     {
@@ -2318,17 +2351,6 @@
         "category": "\u5176\u4ed6",
         "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/9d/2020liuyi_zhifeiji_thumb.png",
         "value": "[\u7eb8\u98de\u673a]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u767d\u8721\u70db]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/64/qingminngjie_bailazhu_org.png",
-        "hot": false,
-        "common": false,
-        "category": "\u5176\u4ed6",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/64/qingminngjie_bailazhu_thumb.png",
-        "value": "[\u767d\u8721\u70db]",
         "picid": ""
     },
     {
