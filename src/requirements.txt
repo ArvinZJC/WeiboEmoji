@@ -1,2 +1,2 @@
-Pillow==9.3.0
+Pillow==9.4.0
 python-dotenv==0.21.0
