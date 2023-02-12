@@ -1012,6 +1012,17 @@
         "picid": ""
     },
     {
+        "phrase": "[\u7406\u60f3L7]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/0a/2023_LIXIANGL7_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/0a/2023_LIXIANGL7_thumb.png",
+        "value": "[\u7406\u60f3L7]",
+        "picid": ""
+    },
+    {
         "phrase": "[\u5154\u5154\u62dc\u5e74]",
         "type": "face",
         "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/4d/2023_happynewyear_org.png",
@@ -1232,72 +1243,6 @@
         "picid": ""
     },
     {
-        "phrase": "[\u970d\u683c\u6c83\u8328]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/f6/2022_Hogwarts_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/f6/2022_Hogwarts_thumb.png",
-        "value": "[\u970d\u683c\u6c83\u8328]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u91d1\u8272\u98de\u8d3c]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/98/2022_GoldenSnitch_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/98/2022_GoldenSnitch_thumb.png",
-        "value": "[\u91d1\u8272\u98de\u8d3c]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u597d\u8fd0\u798f\u7075\u5242]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/9f/2022_LuckyFelixFelicis_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/9f/2022_LuckyFelixFelicis_thumb.png",
-        "value": "[\u597d\u8fd0\u798f\u7075\u5242]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u591a\u6bd4\u5c0f\u7cbe\u7075]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/e9/2022_DobbyHouseElf_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/e9/2022_DobbyHouseElf_thumb.png",
-        "value": "[\u591a\u6bd4\u5c0f\u7cbe\u7075]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u62db\u8d22\u55c5\u55c5]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/11/2022_NifflerFortune_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/11/2022_NifflerFortune_thumb.png",
-        "value": "[\u62db\u8d22\u55c5\u55c5]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u9b54\u6cd5\u4fe1\u4ef6]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/d0/2022_MagicLetter_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/d0/2022_MagicLetter_thumb.png",
-        "value": "[\u9b54\u6cd5\u4fe1\u4ef6]",
-        "picid": ""
-    },
-    {
         "phrase": "[\u5f00\u5b66]",
         "type": "face",
         "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/bd/2022_backschool_org.png",
@@ -1460,39 +1405,6 @@
         "category": "",
         "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/bb/2022_Weightlifting_thumb.png",
         "value": "[\u4e3e\u6760\u94c3]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u864e\u722a\u6bd4\u5fc3]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/2b/2022_handheart_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/2b/2022_handheart_thumb.png",
-        "value": "[\u864e\u722a\u6bd4\u5fc3]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u840c\u864e\u8d34\u8d34]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/81/2022_Cutetigerkiss_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/81/2022_Cutetigerkiss_thumb.png",
-        "value": "[\u840c\u864e\u8d34\u8d34]",
-        "picid": ""
-    },
-    {
-        "phrase": "[2022]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/bc/2021_2022_org.png",
-        "hot": true,
-        "common": false,
-        "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/bc/2021_2022_thumb.png",
-        "value": "[2022]",
         "picid": ""
     },
     {
