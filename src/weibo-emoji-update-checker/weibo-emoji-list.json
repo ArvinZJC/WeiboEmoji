@@ -1012,14 +1012,14 @@
         "picid": ""
     },
     {
-        "phrase": "[\u7406\u60f3L7]",
+        "phrase": "[\u957f\u767d\u5c71\u84dd\u8393]",
         "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/0a/2023_LIXIANGL7_org.png",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/a6/2023_Blueberry_org.png",
         "hot": true,
         "common": false,
         "category": "",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/0a/2023_LIXIANGL7_thumb.png",
-        "value": "[\u7406\u60f3L7]",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/a6/2023_Blueberry_thumb.png",
+        "value": "[\u957f\u767d\u5c71\u84dd\u8393]",
         "picid": ""
     },
     {
@@ -1130,6 +1130,17 @@
         "category": "",
         "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/2022_Keepgoing_thumb.png",
         "value": "[\u52aa\u529b]",
+        "picid": ""
+    },
+    {
+        "phrase": "[\u8681\u4eba]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/21/2023_antman_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/21/2023_antman_thumb.png",
+        "value": "[\u8681\u4eba]",
         "picid": ""
     },
     {
@@ -3000,17 +3011,6 @@
         "category": "\u590d\u4ec7\u8005\u8054\u76df",
         "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/62/avengers_aokeye01_thumb.png",
         "value": "[\u5965\u514b\u8036]",
-        "picid": ""
-    },
-    {
-        "phrase": "[\u8681\u4eba]",
-        "type": "face",
-        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/cc/avengers_antman01_org.png",
-        "hot": false,
-        "common": false,
-        "category": "\u590d\u4ec7\u8005\u8054\u76df",
-        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/cc/avengers_antman01_thumb.png",
-        "value": "[\u8681\u4eba]",
         "picid": ""
     },
     {
