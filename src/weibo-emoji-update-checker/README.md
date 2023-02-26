@@ -8,12 +8,12 @@ Weibo Emoji Update Checker uses [the `emotions` API](https://open.weibo.com/wiki
 
 > May I have your attention pls? 🔥
 
-1. By 19 February 2023, everything looks good with Visual Studio Code (Version: 1.75.1) + Python 3.9. The primary packages of the update checker are listed in the following table. For more info, please refer to [`requirements.txt` under the update checker's `src` directory](./src/requirements.txt).
+1. By 26 February 2023, everything looks good with Visual Studio Code (Version: 1.75.1) + Python 3.9. The primary packages of the update checker are listed in the following table. For more info, please refer to [`requirements.txt` under the update checker's `src` directory](./src/requirements.txt).
 
    | Name          | Version |
    | :------------ | :-----: |
    | onepush       |  1.2.0  |
-   | python-dotenv | 0.21.1  |
+   | python-dotenv |  1.0.0  |
 
 2. You could manually create a file named `.env` under the update checker's root directory and contain the following content. Please note that it is _optional_, and that **the update checker should work well without it**.
 
