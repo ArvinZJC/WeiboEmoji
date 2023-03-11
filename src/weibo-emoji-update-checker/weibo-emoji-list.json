@@ -1012,6 +1012,39 @@
         "picid": ""
     },
     {
+        "phrase": "[\u6ed1\u7a3d]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/2a/2023_funny_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/2a/2023_funny_thumb.png",
+        "value": "[\u6ed1\u7a3d]",
+        "picid": ""
+    },
+    {
+        "phrase": "[\u60ca\u559c]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/5d/2023_surprised_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/5d/2023_surprised_thumb.png",
+        "value": "[\u60ca\u559c]",
+        "picid": ""
+    },
+    {
+        "phrase": "[\u5c34\u5c2c]",
+        "type": "face",
+        "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/b9/2023_awkward_org.png",
+        "hot": true,
+        "common": false,
+        "category": "",
+        "icon": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/b9/2023_awkward_thumb.png",
+        "value": "[\u5c34\u5c2c]",
+        "picid": ""
+    },
+    {
         "phrase": "[\u5154\u5154\u62dc\u5e74]",
         "type": "face",
         "url": "https://face.t.sinajs.cn/t4/appstyle/expression/ext/normal/4d/2023_happynewyear_org.png",
